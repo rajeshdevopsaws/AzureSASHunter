@@ -1,0 +1,1749 @@
+Azure Storage SAS Token Exposure Report
+=====================================
+
+Scan Date: 2025-01-18T14:15:10.285675
+Total Findings: 249
+
+Finding #1
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/All_X101/All_X101.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:13:03.548744
+--------------------------------------------------
+Finding #2
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Word_X152/Word_X152.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:13:03.548887
+--------------------------------------------------
+Finding #3
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Word_X101/Word_X101.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:13:03.548943
+--------------------------------------------------
+Finding #4
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/All_X152/All_X152.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:13:03.548976
+--------------------------------------------------
+Finding #5
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Latex_X101/Latex_X101.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:13:03.549001
+--------------------------------------------------
+Finding #6
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Latex_X152/Latex_X152.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:13:03.549026
+--------------------------------------------------
+Finding #7
+Repository: sawyerf/HackSheet
+File: wiki/Cloud.md
+URL: https://github.com/sawyerf/HackSheet/blob/57c6c16ef723de98dec94d63b3d21f7a39f55655/wiki/Cloud.md
+Token: se=<SE>&sp=rl&sv=<SV>&sr=c&sig=<SIG>%3D"
+Discovered: 2025-01-18T14:13:04.555416
+--------------------------------------------------
+Finding #8
+Repository: sawyerf/HackSheet
+File: wiki/Cloud.md
+URL: https://github.com/sawyerf/HackSheet/blob/57c6c16ef723de98dec94d63b3d21f7a39f55655/wiki/Cloud.md
+Token: se=<SE>&sp=<SP>&sv=<SV>&sr=c&sig=<SIG>%3D"
+Discovered: 2025-01-18T14:13:04.555959
+--------------------------------------------------
+Finding #9
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A17%3A47Z&se=2027-11-25T12%3A17%3A00Z&sr=b&sp=r&sig=RqL7Eeye4385oaO1nvVvRwC4d%2ByhpEVGM3xmS4GcKkQ%3D),
+Discovered: 2025-01-18T14:13:05.199880
+--------------------------------------------------
+Finding #10
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A13%3A42Z&se=2027-11-25T12%3A13%3A00Z&sr=b&sp=r&sig=0BP3pOiE4AFkK4BTgQl5Dy6iJWxHuJffpjU4LFMTfWY%3D)
+Discovered: 2025-01-18T14:13:05.200560
+--------------------------------------------------
+Finding #11
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A18%3A49Z&se=2027-11-25T12%3A18%3A00Z&sr=b&sp=r&sig=BJigddAMHfNUtQuTGH8bJUrzAO3LfaeSm48AXUqZngY%3D"
+Discovered: 2025-01-18T14:13:05.200964
+--------------------------------------------------
+Finding #12
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A16%3A38Z&se=2027-11-25T12%3A16%3A00Z&sr=b&sp=r&sig=t35v4kezDcSOm9Q9E767PhNGAQRsiYm%2FMSDgHIz%2Fvto%3D),
+Discovered: 2025-01-18T14:13:05.201162
+--------------------------------------------------
+Finding #13
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A13%3A18Z&se=2027-11-25T12%3A13%3A00Z&sr=b&sp=r&sig=ahM%2FyI8fg9D4obCZsNKaxLzPVz2y8RX8ydZNToGavC4%3D)
+Discovered: 2025-01-18T14:13:05.201352
+--------------------------------------------------
+Finding #14
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A18%3A29Z&se=2027-11-25T12%3A18%3A00Z&sr=b&sp=r&sig=xtI8rmEqjMmN1b1bcE0KB9ePUax3SuRfOt%2Bp2ATH9ng%3D)
+Discovered: 2025-01-18T14:13:05.201532
+--------------------------------------------------
+Finding #15
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A19%3A19Z&se=2027-11-25T12%3A19%3A00Z&sr=b&sp=r&sig=8yWqesQACrJSi0JMLIA0uAbNlMQKb653gOXjXjQuIW4%3D)
+Discovered: 2025-01-18T14:13:05.201712
+--------------------------------------------------
+Finding #16
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A17%3A18Z&se=2027-11-25T12%3A17%3A00Z&sr=b&sp=r&sig=BD%2BOsI%2F6R905vBJUlrWlgx3%2BmaBRsa2rQcHBChhW0eE%3D),
+Discovered: 2025-01-18T14:13:05.201879
+--------------------------------------------------
+Finding #17
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A18%3A49Z&se=2027-11-25T12%3A18%3A00Z&sr=b&sp=r&sig=BJigddAMHfNUtQuTGH8bJUrzAO3LfaeSm48AXUqZngY%3D)
+Discovered: 2025-01-18T14:13:05.202032
+--------------------------------------------------
+Finding #18
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A15%3A09Z&se=2027-11-25T12%3A15%3A00Z&sr=b&sp=r&sig=AL3q15eyhPBHaWY0FOop9goHVq8CbNluABDk%2FS94rkI%3D)
+Discovered: 2025-01-18T14:13:05.202188
+--------------------------------------------------
+Finding #19
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A15%3A27Z&se=2027-11-25T12%3A15%3A00Z&sr=b&sp=r&sig=IccPmnxQYIpWO8m6kwtEFir9wmVq1SsLOqmw0FRc9hY%3D)
+Discovered: 2025-01-18T14:13:05.202352
+--------------------------------------------------
+Finding #20
+Repository: PacificBiosciences/HiFi-human-WGS-WDL
+File: docs/backend-azure.md
+URL: https://github.com/PacificBiosciences/HiFi-human-WGS-WDL/blob/39a0a54868e27654d9e9063170534f1e95a1543c/docs/backend-azure.md
+Token: sv=2021-06-08&sr=c&sig=o6OkcqWWlGcGOOr8I8gCA%2BJwlpA%2FYsRz0DMB8CCtCJk%3D`
+Discovered: 2025-01-18T14:13:06.400435
+--------------------------------------------------
+Finding #21
+Repository: ChunyuanLI/Optimus
+File: doc/optimius_for_snli.md
+URL: https://github.com/ChunyuanLI/Optimus/blob/f3190fe82578f91929ac4984aa8868b61a3eee22/doc/optimius_for_snli.md
+Token: sp=r&st=2023-08-28T00:40:43Z&se=3023-08-28T08:40:43Z&sv=2022-11-02&sr=c&sig=kUkSFqeHFfTeqxxpvqVdICCJupwODFwJprCAW2o4irE%3D)
+Discovered: 2025-01-18T14:13:08.097191
+--------------------------------------------------
+Finding #22
+Repository: LLaVA-VL/LLaVA-Med-preview
+File: download_data.sh
+URL: https://github.com/LLaVA-VL/LLaVA-Med-preview/blob/399ccffdf39924c7f41cc6db44b90577fa9eea0b/download_data.sh
+Token: sv=2021-10-04&st=2023-08-21T06%3A35%3A05Z&se=2024-02-22T07%3A35%3A00Z&sr=c&sp=rl&sig=nB35sBICKkq1uJoeUqf524GLGUiLG16sUISgIJ%2BsNXc%3D'
+Discovered: 2025-01-18T14:13:08.654663
+--------------------------------------------------
+Finding #23
+Repository: solliancenet/nosql-openhack
+File: deploy.ps1
+URL: https://github.com/solliancenet/nosql-openhack/blob/f8eb8dc829e0e7304488a3367bfcbd6cb0154b32/deploy.ps1
+Token: sp=rl&st=2019-11-26T21:16:46Z&se=2025-11-27T21:36:00Z&sv=2019-02-02&sr=b&sig=P15nBXR2bD2jBnHX92%2BwWRxMnvTeUl3EdBNhLXnZ95s%3D"
+Discovered: 2025-01-18T14:13:09.151393
+--------------------------------------------------
+Finding #24
+Repository: NINAnor/rare_species_detections
+File: dcase_setup.sh
+URL: https://github.com/NINAnor/rare_species_detections/blob/0596963420a84913e2658a35ccc75c8e723b562c/dcase_setup.sh
+Token: sv=2020-08-04&st=2023-03-01T07%3A51%3A05Z&se=2033-03-02T07%3A51%3A00Z&sr=c&sp=rl&sig=QJXmSJG9DbMKf48UDIU1MfzIro8HQOf3sqlNXiflY1I%3D"
+Discovered: 2025-01-18T14:13:10.994505
+--------------------------------------------------
+Finding #25
+Repository: garyttierney/me3
+File: CONTRIBUTING.md
+URL: https://github.com/garyttierney/me3/blob/286e05fc2a4f3370514225d6e2a997f6fe75461b/CONTRIBUTING.md
+Token: sv=2021-06-08&sr=b&sig=lbO4T7%2B1mXDA%2FhvkaUhjvl9a3X6YW4x5E3imSYmjcQE%3D)
+Discovered: 2025-01-18T14:13:13.146911
+--------------------------------------------------
+Finding #26
+Repository: Advsol/Innovations2019-react-starter
+File: sync-demo.bat
+URL: https://github.com/Advsol/Innovations2019-react-starter/blob/ce912fdb6d1f3535e8a8e2d17c412b057b118c71/sync-demo.bat
+Token: st=2019-03-06T11%%3A30%%3A20Z&se=2019-03-21T19%%3A30%%3A00Z&sp=rwdl&sv=2018-03-28&sr=c&sig=[hidden]nPOpTLsfybMFskLi7sKUwMPyTRR57GPNFqWq5rk%%3D"
+Discovered: 2025-01-18T14:13:13.804030
+--------------------------------------------------
+Finding #27
+Repository: Autodesk-Forge/design.automation-.net-input.output.sample
+File: Program.cs
+URL: https://github.com/Autodesk-Forge/design.automation-.net-input.output.sample/blob/e14ed799399571fe36effbe73c7e8159a0b5d7ba/Program.cs
+Token: sv=2017-04-17&sr=b&sig=yw1wWAAD9XavECD5B6jt8DoUY5cozQQukoGu8WoD0XM%3D&st=2018-09-30T07%3A32%3A49Z&se=2018-10-01T07%3A37%3A49Z&sp=rw"
+Discovered: 2025-01-18T14:13:14.700999
+--------------------------------------------------
+Finding #28
+Repository: bdbcat/oesenc_pi
+File: API12.txt
+URL: https://github.com/bdbcat/oesenc_pi/blob/8eb5bd6239300de27fc2fa78a226d96eb0eb13d4/API12.txt
+Token: sr=b&sp=r&sig=QsfNOaCaMI61NS1Xm1JAtThklq5zXFpiQiKt7/5o1AA%3D&sv=2015-07-08&se=2017-05-26T12%3A04%3A21Z</link>
+Discovered: 2025-01-18T14:13:15.968262
+--------------------------------------------------
+Finding #29
+Repository: DestructiveSoul/GKEDemo
+File: Dockerfile
+URL: https://github.com/DestructiveSoul/GKEDemo/blob/c6b9a08c0493b3ced4e08ccf4e9ef035ba12fa51/Dockerfile
+Token: sv=2022-11-02&sr=b&sig=%2B9FKFYCumZ9%2B8hE97jLflMr1jRMssp2MnXPt844aDIM%3D"
+Discovered: 2025-01-18T14:13:18.665871
+--------------------------------------------------
+Finding #30
+Repository: cookiethome/my-first-static-web-app
+File: src/script.js
+URL: https://github.com/cookiethome/my-first-static-web-app/blob/d29b7dacc44e666942025651de6932eca66e3a14/src/script.js
+Token: sv=2022-11-02&sr=b&sig=%2Bcw6TgyluFV%2FRRMgvFiLjTTJvBN%2BF3RaGMhezVLrPz4%3D"
+Discovered: 2025-01-18T14:13:19.814301
+--------------------------------------------------
+Finding #31
+Repository: cookiethome/my-first-static-web-app
+File: src/script.js
+URL: https://github.com/cookiethome/my-first-static-web-app/blob/d29b7dacc44e666942025651de6932eca66e3a14/src/script.js
+Token: sv=2022-11-02&sr=b&sig=HPyeZlSQoEOGb3IajUsxEyQA0gBqdW3pwN%2F%2BFX7B0iA%3D"
+Discovered: 2025-01-18T14:13:19.814839
+--------------------------------------------------
+Finding #32
+Repository: cookiethome/my-first-static-web-app
+File: src/script.js
+URL: https://github.com/cookiethome/my-first-static-web-app/blob/d29b7dacc44e666942025651de6932eca66e3a14/src/script.js
+Token: sv=2022-11-02&sr=b&sig=InvV22zP7qTs0dyvDoxag8Z%2B5ZjeC8PMSFILsOLAGc4%3D"
+Discovered: 2025-01-18T14:13:19.815119
+--------------------------------------------------
+Finding #33
+Repository: cookiethome/my-first-static-web-app
+File: src/script.js
+URL: https://github.com/cookiethome/my-first-static-web-app/blob/d29b7dacc44e666942025651de6932eca66e3a14/src/script.js
+Token: sv=2022-11-02&sr=b&sig=h53zbY9O9YDQ%2FiFA1VBToEj4ce9DvLGAeWkB7qWvE%2FQ%3D"
+Discovered: 2025-01-18T14:13:19.815312
+--------------------------------------------------
+Finding #34
+Repository: cookiethome/my-first-static-web-app
+File: src/script.js
+URL: https://github.com/cookiethome/my-first-static-web-app/blob/d29b7dacc44e666942025651de6932eca66e3a14/src/script.js
+Token: sv=2022-11-02&sr=b&sig=NP%2FnvCNZRYLaFqqPFbWyMseSO3xXDgl3Oqzgp21Do4E%3D"
+Discovered: 2025-01-18T14:13:19.815510
+--------------------------------------------------
+Finding #35
+Repository: SUC-DriverOld/so-vits-svc-Deployment-Documents
+File: README_zh_CN.md
+URL: https://github.com/SUC-DriverOld/so-vits-svc-Deployment-Documents/blob/aead87d25244c5911894b601c0374ae7eda0dc34/README_zh_CN.md
+Token: sv=2020-08-04&st=2023-03-01T07%3A51%3A05Z&se=2033-03-02T07%3A51%3A00Z&sr=c&sp=rl&sig=QJXmSJG9DbMKf48UDIU1MfzIro8HQOf3sqlNXiflY1I%3D)
+Discovered: 2025-01-18T14:13:21.079444
+--------------------------------------------------
+Finding #36
+Repository: msalvaris/DaskKubernetes
+File: storage.py
+URL: https://github.com/msalvaris/DaskKubernetes/blob/eb197bd591ad5e33b90f8e78eec8161a21eff9e7/storage.py
+Token: st=2019-05-30T07%3A57%3A02Z&se=2030-05-31T07%3A57%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=gbyC50EbB8SJjUgO0Bc8YWfm5eAIIh4vqBq%2FCNZu4ms%3D",
+Discovered: 2025-01-18T14:13:21.636095
+--------------------------------------------------
+Finding #37
+Repository: msalvaris/DaskKubernetes
+File: storage.py
+URL: https://github.com/msalvaris/DaskKubernetes/blob/eb197bd591ad5e33b90f8e78eec8161a21eff9e7/storage.py
+Token: st=2019-05-27T13%3A14%3A10Z&se=2030-05-28T13%3A14%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=zwrdFPZo%2F8z9eb12HndzvA020X3MOGDgUmHIlDJwp8Y%3D",
+Discovered: 2025-01-18T14:13:21.636711
+--------------------------------------------------
+Finding #38
+Repository: microsoft/AzureSuperpowers
+File: docs/AzureSuperpowers.md
+URL: https://github.com/microsoft/AzureSuperpowers/blob/9215b323e4182825bfe71729e7dcdac852b51613/docs/AzureSuperpowers.md
+Token: sv=2020-04-08&st=2021-08-30T17%3A52%3A48Z&se=2031-08-31T17%3A52%3A00Z&sr=b&sp=r&sig=tGepgNoczLVDdrX6DR07uTDsFXU%2B8FkYyzPlNCe4ybs%3D>
+Discovered: 2025-01-18T14:13:22.706122
+--------------------------------------------------
+Finding #39
+Repository: microsoft/AzureSuperpowers
+File: docs/AzureSuperpowers.md
+URL: https://github.com/microsoft/AzureSuperpowers/blob/9215b323e4182825bfe71729e7dcdac852b51613/docs/AzureSuperpowers.md
+Token: sv=2020-04-08&st=2021-08-30T17%3A51%3A25Z&se=2031-08-31T17%3A51%3A00Z&sr=b&sp=r&sig=bkdLO5bKtv5V9J7oUMaj94VFQ%2BKC7UDmjhpxeICU2Yo%3D>
+Discovered: 2025-01-18T14:13:22.706419
+--------------------------------------------------
+Finding #40
+Repository: microsoft/AzureSuperpowers
+File: docs/AzureSuperpowers.md
+URL: https://github.com/microsoft/AzureSuperpowers/blob/9215b323e4182825bfe71729e7dcdac852b51613/docs/AzureSuperpowers.md
+Token: sv=2020-04-08&st=2021-08-30T17%3A50%3A26Z&se=2031-08-31T17%3A50%3A00Z&sr=b&sp=r&sig=Jlezh%2FM3cGOPWjxAbWBpeqpvlb%2BNWXaJhQi1m6ATKpA%3D'
+Discovered: 2025-01-18T14:13:22.706718
+--------------------------------------------------
+Finding #41
+Repository: microsoft/AzureSuperpowers
+File: docs/AzureSuperpowers.md
+URL: https://github.com/microsoft/AzureSuperpowers/blob/9215b323e4182825bfe71729e7dcdac852b51613/docs/AzureSuperpowers.md
+Token: sv=2020-04-08&st=2021-08-30T17%3A47%3A37Z&se=2031-08-31T17%3A47%3A00Z&sr=b&sp=r&sig=%2F%2Fz01HUeNMZOadyA26eaA28irL2yahmN6foHFXJq3jk%3D'
+Discovered: 2025-01-18T14:13:22.707048
+--------------------------------------------------
+Finding #42
+Repository: microsoft/AzureSuperpowers
+File: docs/AzureSuperpowers.md
+URL: https://github.com/microsoft/AzureSuperpowers/blob/9215b323e4182825bfe71729e7dcdac852b51613/docs/AzureSuperpowers.md
+Token: sv=2020-04-08&st=2021-08-30T17%3A55%3A41Z&se=2031-08-31T17%3A55%3A00Z&sr=b&sp=r&sig=P2JFBAwhiesE4E6UBGI4sJJDIuUzyh7w8%2BFCRV%2Bn5J8%3D
+Discovered: 2025-01-18T14:13:22.707221
+--------------------------------------------------
+Finding #43
+Repository: microsoft/AzureSuperpowers
+File: docs/AzureSuperpowers.md
+URL: https://github.com/microsoft/AzureSuperpowers/blob/9215b323e4182825bfe71729e7dcdac852b51613/docs/AzureSuperpowers.md
+Token: sv=2020-04-08&st=2021-08-30T17%3A54%3A13Z&se=2031-08-31T17%3A54%3A00Z&sr=b&sp=r&sig=%2FRsUWbe8LOPXKBcm%2FpzM1tpnWu0rpoYsdPMyt0WBwq8%3D>
+Discovered: 2025-01-18T14:13:22.707390
+--------------------------------------------------
+Finding #44
+Repository: microsoft/AzureSuperpowers
+File: docs/AzureSuperpowers.md
+URL: https://github.com/microsoft/AzureSuperpowers/blob/9215b323e4182825bfe71729e7dcdac852b51613/docs/AzureSuperpowers.md
+Token: sv=2020-04-08&st=2021-08-30T17%3A54%3A47Z&se=2031-08-31T17%3A54%3A00Z&sr=b&sp=r&sig=nN3BxYcPk%2FLeYXDsWx%2Btzk6qXUFTgo9AzUq7sQP6cZk%3D>
+Discovered: 2025-01-18T14:13:22.707515
+--------------------------------------------------
+Finding #45
+Repository: Raphael-Hao/brainstorm
+File: benchmark/swin_moe/run.md
+URL: https://github.com/Raphael-Hao/brainstorm/blob/4377cca00b0c24bef1da78857773612d0a2f2aaa/benchmark/swin_moe/run.md
+Token: sv=2020-10-02&st=2022-04-24T14%3A19%3A45Z&se=2022-05-25T14%3A19%3A00Z&sr=c&sp=rl&sig=uPyBaj9zL8bYQnDJyDlNfitaE%2FblBjBPA3J3fMHgbD0%3D"
+Discovered: 2025-01-18T14:13:25.999436
+--------------------------------------------------
+Finding #46
+Repository: davew-msft/synapse
+File: Lab030.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/Lab030.sql
+Token: sv=2020-04-08&st=2020-07-12T19%3A04%3A00Z&se=2031-07-13T19%3A04%3A00Z&sr=c&sp=rl&sig=82oXyOImJpl2MvJzBrUdhlECZvEvY4CwH9%2B6isoNty8%3D';
+Discovered: 2025-01-18T14:13:27.680502
+--------------------------------------------------
+Finding #47
+Repository: davew-msft/synapse
+File: Lab030.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/Lab030.sql
+Token: sv=2020-04-08&st=2020-07-12T19%3A04%3A00Z&se=2031-07-13T19%3A04%3A00Z&sr=c&sp=rl&sig=82oXyOImJpl2MvJzBrUdhlECZvEvY4CwH9%2B6isoNty8%3D
+Discovered: 2025-01-18T14:13:27.680950
+--------------------------------------------------
+Finding #48
+Repository: davew-msft/synapse
+File: Lab030.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/Lab030.sql
+Token: sv=2020-04-08&st=2020-07-12T19%3A04%3A00Z&se=2031-07-13T19%3A04%3A00Z&sr=c&sp=rl&sig=82oXyOImJpl2MvJzBrUdhlECZvEvY4CwH9%2B6isoNty8%3D'
+Discovered: 2025-01-18T14:13:27.681106
+--------------------------------------------------
+Finding #49
+Repository: hakyimlab/gtex-gwas-analysis
+File: data/gwas_metadata.txt
+URL: https://github.com/hakyimlab/gtex-gwas-analysis/blob/300aa123dd769ab175fbf7bb9b26c9e3e4439fa0/data/gwas_metadata.txt
+Token: se=2016-06-23&sr=b&sp=r&sig=9ZfTtoW4MfZgyHl2XR89EaKa6lj%2Fjb3s9QHxMfMu9vM%3D&sv=2014-02-14
+Discovered: 2025-01-18T14:13:28.249045
+--------------------------------------------------
+Finding #50
+Repository: hakyimlab/gtex-gwas-analysis
+File: data/gwas_metadata.txt
+URL: https://github.com/hakyimlab/gtex-gwas-analysis/blob/300aa123dd769ab175fbf7bb9b26c9e3e4439fa0/data/gwas_metadata.txt
+Token: se=2016-06-23&sr=b&sp=r&sig=xT7LfiohtVu8z7L8W6oyKo4eudsOoyrAbCc7CMo6m5s%3D&sv=2014-02-14
+Discovered: 2025-01-18T14:13:28.249651
+--------------------------------------------------
+Finding #51
+Repository: hakyimlab/gtex-gwas-analysis
+File: data/gwas_metadata.txt
+URL: https://github.com/hakyimlab/gtex-gwas-analysis/blob/300aa123dd769ab175fbf7bb9b26c9e3e4439fa0/data/gwas_metadata.txt
+Token: se=2016-06-23&sr=b&sp=r&sig=VIFr%2F%2B6mTZpVFAoQeFeoIW5pn2RQeQ2MlLo9KocXAWY%3D&sv=2014-02-14
+Discovered: 2025-01-18T14:13:28.249967
+--------------------------------------------------
+Finding #52
+Repository: hakyimlab/gtex-gwas-analysis
+File: data/gwas_metadata.txt
+URL: https://github.com/hakyimlab/gtex-gwas-analysis/blob/300aa123dd769ab175fbf7bb9b26c9e3e4439fa0/data/gwas_metadata.txt
+Token: se=2016-06-23&sr=b&sp=r&sig=r18jfrRnXNLMgnJpf1TchLj6PeRYAcHNvU5OS3wT%2BmQ%3D&sv=2014-02-14
+Discovered: 2025-01-18T14:13:28.250167
+--------------------------------------------------
+Finding #53
+Repository: rahulbagal/upload-file-azure-sas-url
+File: main.py
+URL: https://github.com/rahulbagal/upload-file-azure-sas-url/blob/2a81d4c0c2a332256a9247a6cd1a592281a24051/main.py
+Token: st=2018-03-13T09%3A05%3A00Z&se=2019-03-14T09%3A05%3A00Z&sp=rw&sv=2015-12-11&sr=c&sig=IP45%2FplSvHbSJsW1UcEA7Y1tertiMIiiYq3uCbCjn%2FA%3D"
+Discovered: 2025-01-18T14:13:29.315528
+--------------------------------------------------
+Finding #54
+Repository: Azure/azvmimagebuilder
+File: vhdUpdate2021.md
+URL: https://github.com/Azure/azvmimagebuilder/blob/b967a3c7957a3c0a195cd864271ed5a032e6d9bf/vhdUpdate2021.md
+Token: se=2021-04-11T19%3A10%3A15Z\u0026sig=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u0026sp=r\u0026spr=https\u0026sr=b\u0026sv=2018-03-28
+Discovered: 2025-01-18T14:13:30.982102
+--------------------------------------------------
+Finding #55
+Repository: Azure/azvmimagebuilder
+File: vhdUpdate2021.md
+URL: https://github.com/Azure/azvmimagebuilder/blob/b967a3c7957a3c0a195cd864271ed5a032e6d9bf/vhdUpdate2021.md
+Token: https://kqqtojmjy3fid5w2u3zukw1j.blob.core.windows.net/vhds/Tmp1_20210312111014.vhd?se=2021-04-11T19%3A10%3A15Z\u0026sig=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u0026sp=r\u0026spr=https\u0026sr=b\u0026sv=2018-03-28
+Discovered: 2025-01-18T14:13:30.982772
+--------------------------------------------------
+Finding #56
+Repository: rdavisau/tbc
+File: src/samples/maui/readme.md
+URL: https://github.com/rdavisau/tbc/blob/bcb04dc9de457e37fd87cfc27147b8cd8229c16e/src/samples/maui/readme.md
+Token: sv=2020-08-04&st=2023-01-12T05%3A07%3A25Z&se=2050-01-11T15%3A00%3A00Z&sr=b&sp=r&sig=ukrEaCJ15tyjn5pGd0wdMVxWsamVLLcZ20h6oB0B7lY%3D)
+Discovered: 2025-01-18T14:13:31.633409
+--------------------------------------------------
+Finding #57
+Repository: rdavisau/tbc
+File: src/samples/maui/readme.md
+URL: https://github.com/rdavisau/tbc/blob/bcb04dc9de457e37fd87cfc27147b8cd8229c16e/src/samples/maui/readme.md
+Token: sv=2020-08-04&st=2023-02-08T02%3A25%3A12Z&se=2050-02-09T02%3A25%3A00Z&sr=b&sp=r&sig=oRvblPXgJWBa6qNsMO8n%2FpCGrzTS6MpLuPccEslx6z0%3D)
+Discovered: 2025-01-18T14:13:31.634642
+--------------------------------------------------
+Finding #58
+Repository: sharkawy98/raisa-tasks
+File: task0.py
+URL: https://github.com/sharkawy98/raisa-tasks/blob/942c6f73cac48817de27274d178852823f54b71c/task0.py
+Token: sp=r&st=2022-05-31T17:49:47Z&se=2022-06-05T21:59:59Z&sv=2020-08-04&sr=c&sig=9M8ql9nYOhEYdmAOKUyetWbCU8hoWS72UFczkShdbeY%3D'
+Discovered: 2025-01-18T14:13:32.182667
+--------------------------------------------------
+Finding #59
+Repository: webmaxru/dnv-hackathon
+File: index.js
+URL: https://github.com/webmaxru/dnv-hackathon/blob/1ce458cad5819992dc42f3b8c99911bdf5c361b2/index.js
+Token: sv=2021-06-08&sr=b&sig=%2Bf2Q7vVHDtIhDbZbhDP9NQDG4ThOtOW8NL0rpDGZIwg%3D";
+Discovered: 2025-01-18T14:13:32.708062
+--------------------------------------------------
+Finding #60
+Repository: microsoft-healthcare-madison/team
+File: videos.md
+URL: https://github.com/microsoft-healthcare-madison/team/blob/0a1797e531219ff7be867dfb068b0a61659ec7b0/videos.md
+Token: sv=2019-12-12&sr=b&sig=ktPRN0QT9xXgJ4tVDiSSE76c7F4izp7gwideItPrh8o%3D)
+Discovered: 2025-01-18T14:13:33.251742
+--------------------------------------------------
+Finding #61
+Repository: microsoft-healthcare-madison/team
+File: videos.md
+URL: https://github.com/microsoft-healthcare-madison/team/blob/0a1797e531219ff7be867dfb068b0a61659ec7b0/videos.md
+Token: sv=2019-12-12&sr=b&sig=5aXFMhB8TI7Vyx6KYeEJY4sU3ew5qOA0IQWXCciVyLg%3D),
+Discovered: 2025-01-18T14:13:33.252365
+--------------------------------------------------
+Finding #62
+Repository: microsoft-healthcare-madison/team
+File: videos.md
+URL: https://github.com/microsoft-healthcare-madison/team/blob/0a1797e531219ff7be867dfb068b0a61659ec7b0/videos.md
+Token: sv=2019-12-12&sr=b&sig=pgPdDtgZLwn495quSly6JN5LlgvacjVDZ1Ego85Lwo0%3D)
+Discovered: 2025-01-18T14:13:33.252620
+--------------------------------------------------
+Finding #63
+Repository: microsoft-healthcare-madison/team
+File: videos.md
+URL: https://github.com/microsoft-healthcare-madison/team/blob/0a1797e531219ff7be867dfb068b0a61659ec7b0/videos.md
+Token: sv=2019-12-12&sr=b&sig=iP6HkjqytRle3b6aZvx9j%2Br8NG47K1kN35I3nN%2BTaHo%3D)
+Discovered: 2025-01-18T14:13:33.252813
+--------------------------------------------------
+Finding #64
+Repository: microsoft-healthcare-madison/team
+File: videos.md
+URL: https://github.com/microsoft-healthcare-madison/team/blob/0a1797e531219ff7be867dfb068b0a61659ec7b0/videos.md
+Token: sv=2019-12-12&sr=b&sig=cnNADPd0AvLGiDO1pmASVYoz4FvNBp0exnjAjQpevbY%3D)
+Discovered: 2025-01-18T14:13:33.253020
+--------------------------------------------------
+Finding #65
+Repository: sharkawy98/raisa-tasks
+File: task4.py
+URL: https://github.com/sharkawy98/raisa-tasks/blob/942c6f73cac48817de27274d178852823f54b71c/task4.py
+Token: sp=acw&st=2022-05-31T17:54:22Z&se=2022-06-05T10:59:59Z&sv=2020-08-04&sr=c&sig=H0g%2BY%2FOnNIaYNVTsX%2FP42buWaowxIlxQDJ0xqH0gvqQ%3D'
+Discovered: 2025-01-18T14:13:33.726052
+--------------------------------------------------
+Finding #66
+Repository: davew-msft/synapse
+File: serverless_etl.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/serverless_etl.sql
+Token: sv=2020-04-08&st=2020-07-12T19%3A36%3A00Z&se=2026-07-13T19%3A36%3A00Z&sr=c&sp=rl&sig=xVcusZsNwsTtvfty1xVthRNLpF6ASylmKezwYACVXT8%3D';
+Discovered: 2025-01-18T14:13:34.327251
+--------------------------------------------------
+Finding #67
+Repository: davew-msft/synapse
+File: serverless_etl.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/serverless_etl.sql
+Token: sv=2020-04-08&st=2020-07-12T19%3A36%3A00Z&se=2026-07-13T19%3A36%3A00Z&sr=c&sp=rl&sig=xVcusZsNwsTtvfty1xVthRNLpF6ASylmKezwYACVXT8%3D
+Discovered: 2025-01-18T14:13:34.327625
+--------------------------------------------------
+Finding #68
+Repository: davew-msft/synapse
+File: serverless_etl.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/serverless_etl.sql
+Token: sv=2020-02-10&st=2020-07-12T20%3A14%3A00Z&se=2031-07-13T20%3A14%3A00Z&sr=c&sp=racwdlmeop&sig=80q0VmCbj9cCHBVhgRGIa5%2FlBrfSgnZdTsxTHdcefbo%3D'
+Discovered: 2025-01-18T14:13:34.327867
+--------------------------------------------------
+Finding #69
+Repository: Nore5515/c4tbot
+File: scripts/upload.sh
+URL: https://github.com/Nore5515/c4tbot/blob/b44873804299bc2995a48a4fdbbc800d151c2cf1/scripts/upload.sh
+Token: sv=2022-11-02&sr=c&sig=%2BIqWvVXv1skolPIe%2FAAupoIYG%2Fg5Vi7qqU708kgmqnE%3D";
+Discovered: 2025-01-18T14:13:34.888898
+--------------------------------------------------
+Finding #70
+Repository: rdavisau/tbc
+File: readme.md
+URL: https://github.com/rdavisau/tbc/blob/bcb04dc9de457e37fd87cfc27147b8cd8229c16e/readme.md
+Token: sv=2019-12-12&sr=b&sig=eW2DWnMw162dTqEN7DIAzrB6J6MdRWIBZKoRfO32XF8%3D
+Discovered: 2025-01-18T14:13:36.690660
+--------------------------------------------------
+Finding #71
+Repository: rdavisau/tbc
+File: readme.md
+URL: https://github.com/rdavisau/tbc/blob/bcb04dc9de457e37fd87cfc27147b8cd8229c16e/readme.md
+Token: sv=2020-08-04&st=2022-04-13T06%3A53%3A20Z&se=2069-04-20T06%3A53%3A00Z&sr=b&sp=r&sig=vVw2wFzbDjcpCk2eOLqcFpffHnQuGEBBK5EwhCVotcc%3D)
+Discovered: 2025-01-18T14:13:36.691321
+--------------------------------------------------
+Finding #72
+Repository: microsoft/Health-AI-Blueprints-TA4HVisualizer
+File: server.js
+URL: https://github.com/microsoft/Health-AI-Blueprints-TA4HVisualizer/blob/4862cf1dc5e0ed46f08cc1e4ed7d80773716485d/server.js
+Token: sv=${(signedVersion)}
+Discovered: 2025-01-18T14:13:37.406768
+--------------------------------------------------
+Finding #73
+Repository: kyegomez/KosmosX-API
+File: Dockerfile
+URL: https://github.com/kyegomez/KosmosX-API/blob/be4648feee71a31c43b9bebea6490fb340f99ec3/Dockerfile
+Token: sv=2021-10-04&st=2023-06-08T11%3A16%3A02Z&se=2033-06-09T11%3A16%3A00Z&sr=c&sp=r&sig=N4pfCVmSeq4L4tS8QbrFVsX6f6q844eft8xSuXdxU48%3D"
+Discovered: 2025-01-18T14:13:37.908339
+--------------------------------------------------
+Finding #74
+Repository: johnthiriet/Xamarin.Android.Huawei.Hms
+File: build.cake
+URL: https://github.com/johnthiriet/Xamarin.Android.Huawei.Hms/blob/5e91aa6bdd96c923e550b33cd8318a70ddd1f17b/build.cake
+Token: sv=2019-12-12&sr=b&sig=u0AuiaLX%2FDGnh7SRZoLP4bkKrekdegTHmGrW4YSdqLs%3D",
+Discovered: 2025-01-18T14:13:38.447793
+--------------------------------------------------
+Finding #75
+Repository: microsoft/art
+File: developer_guide.md
+URL: https://github.com/microsoft/art/blob/3ea0616a449cc1c03ee49f1777ce6b331c520b57/developer_guide.md
+Token: sv=2019-02-02&st=2020-07-23T02%3A22%3A30Z&se=2023-07-24T02%3A22%3A00Z&sr=b&sp=r&sig=hDnGw9y%2BO5XlggL6br%2FPzSKmpAdUZ%2F1LJKVkcmbVmCE%3D
+Discovered: 2025-01-18T14:13:39.151012
+--------------------------------------------------
+Finding #76
+Repository: Ercenk/gosurvey
+File: getCounter.php
+URL: https://github.com/Ercenk/gosurvey/blob/2593a0a68e21701bd51defa23c324f28e915d446/getCounter.php
+Token: sv=2014-02-14&sr=c&sig=NKf%2BaBw%2F39YLSWiLvXrGaLdbI4ZSD2hqqCjqhacZdTw%3D&st=2015-06-03T07%3A00%3A00Z&se=2015-10-16T07%3A00%3A00Z&sp=r";
+Discovered: 2025-01-18T14:13:42.425742
+--------------------------------------------------
+Finding #77
+Repository: zhengkid/PartialFormer
+File: azsync.py
+URL: https://github.com/zhengkid/PartialFormer/blob/d1ed9598300d2557347f6a6f7769240f14dde08c/azsync.py
+Token: sv=2020-10-02&st=2022-09-25T04%3A34%3A31Z&se=2024-09-26T04%3A34%3A00Z&sr=c&sp=racwdxl&sig=qhi5AaczGeVZnUnaBe%2F0jpes6LYqMlAqoqOHhH7TkuE%3D"
+Discovered: 2025-01-18T14:13:43.037918
+--------------------------------------------------
+Finding #78
+Repository: extratone/bilge
+File: posts/licking-missouri.md
+URL: https://github.com/extratone/bilge/blob/ca7371838e6bcb33811693b47974f0157c928cba/posts/licking-missouri.md
+Token: se=2019-06-19T12%3A51%3A01Z&sp=r&sv=2018-03-28&sr=b&sig=HAeULISGzXfAomSVQ41Xm%2BHTNCcAFlwUmFqPY3G/Lc0%3D),
+Discovered: 2025-01-18T14:13:43.616144
+--------------------------------------------------
+Finding #79
+Repository: TimHanewich/Baseball-Betting-NN
+File: readme.md
+URL: https://github.com/TimHanewich/Baseball-Betting-NN/blob/8af648188c814022e6a5b24ea1d43e7b2fca7ade/readme.md
+Token: sv=2021-12-02&sr=b&sig=AVQ9fkDrzJCz3p7XPqYQ%2Fr6lSL5o6btCZc2Mj22KnGM%3D)|7,469|Trained
+Discovered: 2025-01-18T14:13:44.216304
+--------------------------------------------------
+Finding #80
+Repository: TimHanewich/Baseball-Betting-NN
+File: readme.md
+URL: https://github.com/TimHanewich/Baseball-Betting-NN/blob/8af648188c814022e6a5b24ea1d43e7b2fca7ade/readme.md
+Token: sv=2021-12-02&sr=b&sig=3X277mvDT0%2Fp3mA1jC476jeH6QNH8sX7HcCnnLLRmwE%3D)|378,274|Trained
+Discovered: 2025-01-18T14:13:44.216921
+--------------------------------------------------
+Finding #81
+Repository: TimHanewich/Baseball-Betting-NN
+File: readme.md
+URL: https://github.com/TimHanewich/Baseball-Betting-NN/blob/8af648188c814022e6a5b24ea1d43e7b2fca7ade/readme.md
+Token: sp=r&st=2023-05-01T13:38:49Z&se=2999-05-01T21:38:49Z&sv=2021-12-02&sr=b&sig=klrDru2vCCUdpLk3rrUZuxDQUDS9yAUequjE6GEIFqc%3D)|4.8
+Discovered: 2025-01-18T14:13:44.217166
+--------------------------------------------------
+Finding #82
+Repository: TimHanewich/Baseball-Betting-NN
+File: readme.md
+URL: https://github.com/TimHanewich/Baseball-Betting-NN/blob/8af648188c814022e6a5b24ea1d43e7b2fca7ade/readme.md
+Token: sv=2021-12-02&sr=b&sig=6Z9yJ5P077Q7kxbhafJZ4v3CtmsFAqSuBF%2FrOZCzhng%3D)||**Warning**,
+Discovered: 2025-01-18T14:13:44.217355
+--------------------------------------------------
+Finding #83
+Repository: TimHanewich/Baseball-Betting-NN
+File: readme.md
+URL: https://github.com/TimHanewich/Baseball-Betting-NN/blob/8af648188c814022e6a5b24ea1d43e7b2fca7ade/readme.md
+Token: sp=r&st=2023-04-26T14:02:12Z&se=2999-04-26T22:02:12Z&sv=2021-12-02&sr=b&sig=joJHly6gHZGklmat2awm6O%2BXsRJaL%2FpNLKCRteJwYI4%3D)|378,274|Trained
+Discovered: 2025-01-18T14:13:44.217576
+--------------------------------------------------
+Finding #84
+Repository: TimHanewich/Baseball-Betting-NN
+File: readme.md
+URL: https://github.com/TimHanewich/Baseball-Betting-NN/blob/8af648188c814022e6a5b24ea1d43e7b2fca7ade/readme.md
+Token: sp=r&st=2023-04-26T13:59:09Z&se=2999-04-26T21:59:09Z&sv=2021-12-02&sr=b&sig=8spNow9rkXzkYD7LmXoXnz24YHvlOpIEmTDeaajZejs%3D)|1.7
+Discovered: 2025-01-18T14:13:44.217764
+--------------------------------------------------
+Finding #85
+Repository: TimHanewich/Baseball-Betting-NN
+File: readme.md
+URL: https://github.com/TimHanewich/Baseball-Betting-NN/blob/8af648188c814022e6a5b24ea1d43e7b2fca7ade/readme.md
+Token: sp=r&st=2023-04-24T01:22:36Z&se=2999-04-24T09:22:36Z&sv=2021-12-02&sr=b&sig=cE5Pa2PbNAP34RB%2BYcAqlzT%2FwyMiFyF4nG1wgmW6%2F04%3D)|2
+Discovered: 2025-01-18T14:13:44.217974
+--------------------------------------------------
+Finding #86
+Repository: seguler/static-website-blob-browser
+File: src/index.js
+URL: https://github.com/seguler/static-website-blob-browser/blob/2d4847cd2c4465cc1b618c3f6df317bee520f1a7/src/index.js
+Token: st=2018-11-06T06%3A15%3A24Z&se=2019-11-07T06%3A15%3A00Z&sp=rl&sv=2018-03-28&sr=c&sig=4vCT7aInDWRiypkuYlezN8dos0K2h2DvQ0pnNkMJSFs%3D`;
+Discovered: 2025-01-18T14:13:45.284138
+--------------------------------------------------
+Finding #87
+Repository: queenaler/arch2cloud
+File: arch2cloud
+URL: https://github.com/queenaler/arch2cloud/blob/e20048a24c17e3337b988e36b1f5c3a786dfe75c/arch2cloud
+Token: sv=2022-11-02&sr=b&sig=%2FZBLdoMfO%2BBok9nt9xsMFRBnX8sGj581u7BiMuEXK3E%3D"
+Discovered: 2025-01-18T14:13:46.417151
+--------------------------------------------------
+Finding #88
+Repository: queenaler/arch2cloud
+File: arch2cloud
+URL: https://github.com/queenaler/arch2cloud/blob/e20048a24c17e3337b988e36b1f5c3a786dfe75c/arch2cloud
+Token: sv=2022-11-02&sr=b&sig=ZZu3p48d5rNYgWEPeFwyhTKB0GgfAmUQ2FIi2WIIZcc%3D"
+Discovered: 2025-01-18T14:13:46.417592
+--------------------------------------------------
+Finding #89
+Repository: queenaler/arch2cloud
+File: arch2cloud
+URL: https://github.com/queenaler/arch2cloud/blob/e20048a24c17e3337b988e36b1f5c3a786dfe75c/arch2cloud
+Token: sv=2022-11-02&sr=b&sig=EC0aZ562dnRu1gPevFw%2BVMg%2BlDY8KxKELMjRQpL6kiE%3D"
+Discovered: 2025-01-18T14:13:46.417727
+--------------------------------------------------
+Finding #90
+Repository: queenaler/arch2cloud
+File: arch2cloud
+URL: https://github.com/queenaler/arch2cloud/blob/e20048a24c17e3337b988e36b1f5c3a786dfe75c/arch2cloud
+Token: sv=2022-11-02&sr=b&sig=8E7aeXW6Xz9yJsa7n5K87%2BVYeLC0Xxy5YMrtnBrrHqM%3D"
+Discovered: 2025-01-18T14:13:46.417924
+--------------------------------------------------
+Finding #91
+Repository: queenaler/arch2cloud
+File: arch2cloud
+URL: https://github.com/queenaler/arch2cloud/blob/e20048a24c17e3337b988e36b1f5c3a786dfe75c/arch2cloud
+Token: sv=2022-11-02&sr=b&sig=iXSJaWy8UjIEr6OeSjNI%2FBW52hlG6vajyuRdx%2F8USjQ%3D"
+Discovered: 2025-01-18T14:13:46.418015
+--------------------------------------------------
+Finding #92
+Repository: shannuvijaya/Documents
+File: Terraform Testing.txt
+URL: https://github.com/shannuvijaya/Documents/blob/241475eea9703967ce30bfaa04d574bb27787128/Terraform%20Testing.txt
+Token: sv=2022-11-02&sr=c&sig=jIBJE7h1DYqJDLbI2aWONYwXq3T3NjM7%2Bh40TWeDZqc%3D"
+Discovered: 2025-01-18T14:13:47.031529
+--------------------------------------------------
+Finding #93
+Repository: shannuvijaya/Documents
+File: Terraform Testing.txt
+URL: https://github.com/shannuvijaya/Documents/blob/241475eea9703967ce30bfaa04d574bb27787128/Terraform%20Testing.txt
+Token: sv=2022-11-02&sr=c&sig=Pw8ius6%2BhEZyZQpb%2B5Fgz6%2FI72%2FKTNGR38eeRXY1vGM%3D"
+Discovered: 2025-01-18T14:13:47.032117
+--------------------------------------------------
+Finding #94
+Repository: evcu/cv2016
+File: hw3/getData.sh
+URL: https://github.com/evcu/cv2016/blob/f28a88e23f4781f79358f4b2ba9682a8c24dd690/hw3/getData.sh
+Token: sv=2015-12-11&sr=b&sig=VdoUFRx4BfcN%2FgHQP3tR98atjT9cYCuys%2Fq%2FP7xCxLs%3D&se=2016-12-05T03%3A42%3A39Z&sp=r'
+Discovered: 2025-01-18T14:13:47.645369
+--------------------------------------------------
+Finding #95
+Repository: evcu/cv2016
+File: hw3/getData.sh
+URL: https://github.com/evcu/cv2016/blob/f28a88e23f4781f79358f4b2ba9682a8c24dd690/hw3/getData.sh
+Token: sv=2015-12-11&sr=b&sig=Sy%2FYzgPplsALRPUxjnb6buRVrQvK%2FTmq66g9reNRAF0%3D&se=2016-12-05T03%3A42%3A33Z&sp=r'
+Discovered: 2025-01-18T14:13:47.646007
+--------------------------------------------------
+Finding #96
+Repository: DXFrance/BlueFrogHackfest
+File: BlobStorage/ProvideSAS.md
+URL: https://github.com/DXFrance/BlueFrogHackfest/blob/1cb8663d24a14159e2622b752d24e7638417e468/BlobStorage/ProvideSAS.md
+Token: sv=2015-12-11&sr=b&sig=DPdpnQs3BX5OKU7kZiHy76p1UQuQjq4NCRiiMrrXIqk%3D&st=2016-11-16T15%3A20%3A43Z&se=2016-11-16T16%3A25%3A43Z&sp=w'
+Discovered: 2025-01-18T14:13:50.056503
+--------------------------------------------------
+Finding #97
+Repository: DXFrance/BlueFrogHackfest
+File: BlobStorage/ProvideSAS.md
+URL: https://github.com/DXFrance/BlueFrogHackfest/blob/1cb8663d24a14159e2622b752d24e7638417e468/BlobStorage/ProvideSAS.md
+Token: sv=2015-12-11&sr=b&sig=HbbswWVl5o3mkNcuYg3cUIjYecmHOJ%2BFtQ5ptXER7ic%3D&st=2016-11-16T15%3A24%3A58Z&se=2016-11-16T16%3A29%3A58Z&sp=r'
+Discovered: 2025-01-18T14:13:50.057124
+--------------------------------------------------
+Finding #98
+Repository: DXFrance/BlueFrogHackfest
+File: BlobStorage/ProvideSAS.md
+URL: https://github.com/DXFrance/BlueFrogHackfest/blob/1cb8663d24a14159e2622b752d24e7638417e468/BlobStorage/ProvideSAS.md
+Token: sv=2015-12-11&sr=b&sig=HbbswWVl5o3mkNcuYg3cUIjYecmHOJ%2BFtQ5ptXER7ic%3D&st=2016-11-16T15%3A24%3A58Z&se=2016-11-16T16%3A29%3A58Z&sp=r","uri":"https://tbrdatacollection.blob.core.windows.net/configcontainer?sv=2015-12-11&sr=b&sig=HbbswWVl5o3mkNcuYg3cUIjYecmHOJ%2BFtQ5ptXER7ic%3D&st=2016-11-16T15%3A24%3A58Z&se=2016-11-16T16%3A29%3A58Z&sp=r"}
+Discovered: 2025-01-18T14:13:50.057361
+--------------------------------------------------
+Finding #99
+Repository: DXFrance/BlueFrogHackfest
+File: BlobStorage/ProvideSAS.md
+URL: https://github.com/DXFrance/BlueFrogHackfest/blob/1cb8663d24a14159e2622b752d24e7638417e468/BlobStorage/ProvideSAS.md
+Token: sv=2015-12-11&sr=b&sig=DPdpnQs3BX5OKU7kZiHy76p1UQuQjq4NCRiiMrrXIqk%3D&st=2016-11-16T15%3A20%3A43Z&se=2016-11-16T16%3A25%3A43Z&sp=w","uri":"https://tbrdatacollection.blob.core.windows.net/configcontainer?sv=2015-12-11&sr=b&sig=DPdpnQs3BX5OKU7kZiHy76p1UQuQjq4NCRiiMrrXIqk%3D&st=2016-11-16T15%3A20%3A43Z&se=2016-11-16T16%3A25%3A43Z&sp=w"}
+Discovered: 2025-01-18T14:13:50.057511
+--------------------------------------------------
+Finding #100
+Repository: DXFrance/BlueFrogHackfest
+File: BlobStorage/ProvideSAS.md
+URL: https://github.com/DXFrance/BlueFrogHackfest/blob/1cb8663d24a14159e2622b752d24e7638417e468/BlobStorage/ProvideSAS.md
+Token: sv=2015-12-11&sr=b&sig=cEx%2F8l9NQgoGgnz4xaCfyblh3Wa3I7Ju8TM9uyqGpFE%3D&st=2016-11-16T13%3A48%3A58Z&se=2016-11-16T14%3A53%3A58Z&sp=rl","uri":"https://tbrdatacollection.blob.core.windows.net/configcontainer?sv=2015-12-11&sr=b&sig=cEx%2F8l9NQgoGgnz4xaCfyblh3Wa3I7Ju8TM9uyqGpFE%3D&st=2016-11-16T13%3A48%3A58Z&se=2016-11-16T14%3A53%3A58Z&sp=rl"}
+Discovered: 2025-01-18T14:13:50.057652
+--------------------------------------------------
+Finding #101
+Repository: davew-msft/synapse
+File: Lab005.md
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/Lab005.md
+Token: sv=2020-04-08&st=2021-06-14T17%3A12%3A00Z&se=2031-06-16T17%3A12%3A00Z&sr=c&sp=rl&sig=jOJsi5E5CgxU1L0LYl02xxgrAgPLMkRnWXAizertyUY%3D
+Discovered: 2025-01-18T14:13:50.589474
+--------------------------------------------------
+Finding #102
+Repository: davew-msft/synapse
+File: Lab005.md
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/Lab005.md
+Token: sv=2020-04-08&st=2021-06-14T17%3A14%3A00Z&se=2030-06-16T17%3A14%3A00Z&sr=c&sp=rl&sig=9u7gONEHnqybJTReLN%2F5PYEO6JOY2oTKm2rRhmZuahk%3D
+Discovered: 2025-01-18T14:13:50.591083
+--------------------------------------------------
+Finding #103
+Repository: Dannynis/deep_learning_course
+File: day_8/data_path.txt
+URL: https://github.com/Dannynis/deep_learning_course/blob/dba5644286f6bcae0d5180dfdf136ee5dc952825/day_8/data_path.txt
+Token: sv=2019-02-02&sr=b&sig=q1j9L5U0IFM%2FcZK%2F1RH4ta%2F19%2FY30nCpXUmB3zqSOoU%3D
+Discovered: 2025-01-18T14:13:51.650889
+--------------------------------------------------
+Finding #104
+Repository: katha-ai/VELOCITI
+File: model_loaders.py
+URL: https://github.com/katha-ai/VELOCITI/blob/109b117ba093d7c76adbb064d31d27d3ca303ca0/model_loaders.py
+Token: sv=2021-12-02&sr=b&sig=91OEG2MuszQmr16N%2Bt%2FLnvlwY3sc9CNhbyxYT9rupw0%3D"
+Discovered: 2025-01-18T14:13:52.851160
+--------------------------------------------------
+Finding #105
+Repository: jackgerrits/vw-perf
+File: prepare.py
+URL: https://github.com/jackgerrits/vw-perf/blob/a1d6d58352dbe01381a11a43bc7e0c0766e99df5/prepare.py
+Token: sv=2018-03-28&sig=Y9xgnrzemDmLdLfqa9xIPdIBWMESCvMswTNTry%2Bgwj8%3D&sr=b",
+Discovered: 2025-01-18T14:13:53.344020
+--------------------------------------------------
+Finding #106
+Repository: ue4plugins/UnrealPixelStreamingOnAzure
+File: packer/README.md
+URL: https://github.com/ue4plugins/UnrealPixelStreamingOnAzure/blob/3428cda16524e28466d85b17280403de267591e6/packer/README.md
+Token: se=2022-12-12T00%3A00%3A00Z&sp=acw&sv=2021-06-08&sr=c&sig=<some
+Discovered: 2025-01-18T14:13:53.867869
+--------------------------------------------------
+Finding #107
+Repository: shaneochotny/Azure-Synapse-Analytics-PoC
+File: deploySynapse.sh
+URL: https://github.com/shaneochotny/Azure-Synapse-Analytics-PoC/blob/52ee64c5bf68b2639abbd4155ac2b15df6130ca8/deploySynapse.sh
+Token: sv=2021-04-10&st=2022-10-01T04%3A00%3A00Z&se=2023-12-01T05%3A00%3A00Z&sr=c&sp=rl&sig=eorb8V3hDel5dR4%2Ft2JsWVwTBawsxIOUYADj4RiKeDo%3D"
+Discovered: 2025-01-18T14:13:55.095495
+--------------------------------------------------
+Finding #108
+Repository: dmca-services/widget
+File: widget.js
+URL: https://github.com/dmca-services/widget/blob/0286368669ba2e5bcb739125623cbcc91ecde18e/widget.js
+Token: st=2019-03-02T00%3A22%3A29Z&se=2028-03-03T00%3A22%3A00Z&sp=rw&sv=2018-03-28&sr=c&sig=5uj40e0WkJN4jO9efLP3CKvstLnc2LG%2BqWfMC6U4Ou0%3D';
+Discovered: 2025-01-18T14:13:56.449207
+--------------------------------------------------
+Finding #109
+Repository: dmca-services/widget
+File: widget.js
+URL: https://github.com/dmca-services/widget/blob/0286368669ba2e5bcb739125623cbcc91ecde18e/widget.js
+Token: st=2019-03-02T00%3A22%3A29Z&se=2028-03-03T00%3A22%3A00Z&sp=rw&sv=2018-03-28&sr=c&sig=5uj40e0WkJN4jO9efLP3CKvstLnc2LG%2BqWfMC6U4Ou0%3D"
+Discovered: 2025-01-18T14:13:56.450347
+--------------------------------------------------
+Finding #110
+Repository: keboola/sapi-r-client
+File: R/client.R
+URL: https://github.com/keboola/sapi-r-client/blob/b3b36c23743d11c828f706d78970f67845adc394/R/client.R
+Token: sv=2017-11-09&sr=c&st=2023-03-08T18:47:29Z&se=2023-03-09T06:47:29Z&sp=rwl&sig=o89P1pW04xbgRB7wrUFOq%2BLZRJxSu%2FIgcWt32B1P1os%3D
+Discovered: 2025-01-18T14:13:57.742898
+--------------------------------------------------
+Finding #111
+Repository: keboola/sapi-r-client
+File: R/client.R
+URL: https://github.com/keboola/sapi-r-client/blob/b3b36c23743d11c828f706d78970f67845adc394/R/client.R
+Token: sv=2017-11-09&sr=c&st=2023-03-08T18:47:29Z&se=2023-03-09T06:47:29Z&sp=rwl&sig=aaaaaaaaaaa%3D
+Discovered: 2025-01-18T14:13:57.743515
+--------------------------------------------------
+Finding #112
+Repository: wsteitz/mars_express
+File: src/ensemble.py
+URL: https://github.com/wsteitz/mars_express/blob/95172239316b2b2cb1e0cc18dd81a827b88229a3/src/ensemble.py
+Token: sv=2012-02-12&se=2015-05-03T21%3A22%3A17Z&sr=b&sp=r&sig=rkeA7EJC%2BiQ%2FJ%2BcMpcA4lYQLFh6ubNqs2XAkGtFsAv0%3D
+Discovered: 2025-01-18T14:13:58.227390
+--------------------------------------------------
+Finding #113
+Repository: thedatadudech/hello_world_flask
+File: src/app.py
+URL: https://github.com/thedatadudech/hello_world_flask/blob/f4f02f71072e6c19e50c58c5e3bd1fcaeaf8aace/src/app.py
+Token: sv=2022-11-02&sr=b&sig="
+Discovered: 2025-01-18T14:13:58.902349
+--------------------------------------------------
+Finding #114
+Repository: OLC-Bioinformatics/ConFindr
+File: docs/usage.md
+URL: https://github.com/OLC-Bioinformatics/ConFindr/blob/fb5736383919847376e6d198b34d1cbde78eb831/docs/usage.md
+Token: sv=2019-10-10&sr=b&sig=ncG%2F5MzKt57p1BUdyFtnhJUk9Yfi6x3rFhSQWPlT2Ek%3D'
+Discovered: 2025-01-18T14:14:01.017735
+--------------------------------------------------
+Finding #115
+Repository: OLC-Bioinformatics/ConFindr
+File: docs/usage.md
+URL: https://github.com/OLC-Bioinformatics/ConFindr/blob/fb5736383919847376e6d198b34d1cbde78eb831/docs/usage.md
+Token: sv=2019-10-10&sr=b&sig=zF01kDCgmsmBWJ0cSpyfYi6CLldIjalwU2RgsswKmmI%3D'
+Discovered: 2025-01-18T14:14:01.018130
+--------------------------------------------------
+Finding #116
+Repository: abhirockzz/azure-dataexplorer-go
+File: cli/ingest.go
+URL: https://github.com/abhirockzz/azure-dataexplorer-go/blob/08f812485143f9dc3754fb1ab5394a35a522b9ca/cli/ingest.go
+Token: st=2018-08-31T22%3A02%3A25Z&se=2020-09-01T22%3A02%3A00Z&sp=r&sv=2018-03-28&sr=b&sig=LQIbomcKI8Ooz425hWtjeq6d61uEaq21UVX7YrM61N4%3D"
+Discovered: 2025-01-18T14:14:01.641797
+--------------------------------------------------
+Finding #117
+Repository: abhirockzz/azure-dataexplorer-go
+File: cli/ingest.go
+URL: https://github.com/abhirockzz/azure-dataexplorer-go/blob/08f812485143f9dc3754fb1ab5394a35a522b9ca/cli/ingest.go
+Token: st=2018-08-31T22%3A02%3A25Z&se=2020-09-01T22%3A02%3A00Z&sp=r&sv=2018-03-28&sr=b&sig=LQIbomcKI8Ooz425hWtjeq6d61uEaq21UVX7YrM61N4%3D",
+Discovered: 2025-01-18T14:14:01.642439
+--------------------------------------------------
+Finding #118
+Repository: simon19891101/Titanic
+File: Project2.R
+URL: https://github.com/simon19891101/Titanic/blob/47007d009d2dfaf01ccf1c73a73875ac8d7aba38/Project2.R
+Token: sv=2015-12-11&sr=b&sig=iS7OjFl4SscI6L1lKJDi%2FSgBOdKBnaKD9CwnITJHFm4%3D&se=2017-05-17T10%3A22%3A53Z&sp=r","/Users/hangyu/Documents/RProjects/train.csv")
+Discovered: 2025-01-18T14:14:02.381654
+--------------------------------------------------
+Finding #119
+Repository: simon19891101/Titanic
+File: Project2.R
+URL: https://github.com/simon19891101/Titanic/blob/47007d009d2dfaf01ccf1c73a73875ac8d7aba38/Project2.R
+Token: sv=2015-12-11&sr=b&sig=CvTQuyAA32lTpPxTZbFhmvrPDgzGoU6owd0d3NJAs%2Bo%3D&se=2017-05-17T10%3A15%3A23Z&sp=r","/Users/hangyu/Documents/RProjects/gender.csv")
+Discovered: 2025-01-18T14:14:02.382917
+--------------------------------------------------
+Finding #120
+Repository: simon19891101/Titanic
+File: Project2.R
+URL: https://github.com/simon19891101/Titanic/blob/47007d009d2dfaf01ccf1c73a73875ac8d7aba38/Project2.R
+Token: sv=2015-12-11&sr=b&sig=e%2BGdffylTNViFa%2BShj2OWr1FGWL6o9Zeq%2F%2BWjSCTAtc%3D&se=2017-05-17T10%3A21%3A48Z&sp=r","/Users/hangyu/Documents/RProjects/test.csv")
+Discovered: 2025-01-18T14:14:02.383222
+--------------------------------------------------
+Finding #121
+Repository: chmitch/AIAdjacent
+File: Student/01-Setup.md
+URL: https://github.com/chmitch/AIAdjacent/blob/28e7db7b014aecd244873e00f262621e344533a2/Student/01-Setup.md
+Token: st=2020-02-20T17%3A37%3A51Z&se=2021-02-21T17%3A37%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=FPqvfQMJdy5pjB6tWSs9Iw2UmtTeWLDzH1ESO3Rhc4c%3D"
+Discovered: 2025-01-18T14:14:05.086557
+--------------------------------------------------
+Finding #122
+Repository: yutong1231/PUTJDZ
+File: readme/prepare_data.md
+URL: https://github.com/yutong1231/PUTJDZ/blob/0eddbb20ffb5bc0b97cecf9e0a31cdb77f40d0bb/readme/prepare_data.md
+Token: sv=2020-04-08&st=2021-06-27T06%3A29%3A59Z&se=2022-12-30T06%3A29%3A00Z&sr=c&sp=rl&sig=%2BwsVmd88L09ePEo2bcWvrE%2FeYnqqaOGIhKD%2FY2wvEjQ%3D
+Discovered: 2025-01-18T14:14:05.748103
+--------------------------------------------------
+Finding #123
+Repository: JeremyMorgan/Cheesy-Vue-Blog
+File: pushfiles.bat
+URL: https://github.com/JeremyMorgan/Cheesy-Vue-Blog/blob/1c47f1488a37558a49b7e8f3a06469316407e420/pushfiles.bat
+Token: sv=2020-04-08&se=2021-06-01T19%3A39%3A53Z&sr=c&sp=rwl&sig=zUnQQ2h28vehAYyuUViIisvN0tn9Bu13lp1aI6Z%2BtIs%3D"
+Discovered: 2025-01-18T14:14:06.825185
+--------------------------------------------------
+Finding #124
+Repository: mitchpaulus/dotfiles
+File: notes/azure.md
+URL: https://github.com/mitchpaulus/dotfiles/blob/cb45a5ab03778d7ce051adc856639c367d40d1f3/notes/azure.md
+Token: sv=2021-10-04&se=2023-08-10T19%3A11%3A02Z&sr=c&sp=rwl&sig=w36Uea6FFoXlFoo9DLuogOWclRE%2BD5HIdGjD7FooeXU%3D"
+Discovered: 2025-01-18T14:14:07.409153
+--------------------------------------------------
+Finding #125
+Repository: sawyerf/HackSheet
+File: wiki/Cloud.md
+URL: https://github.com/sawyerf/HackSheet/blob/57c6c16ef723de98dec94d63b3d21f7a39f55655/wiki/Cloud.md
+Token: se=<SE>&sp=rl&sv=<SV>&sr=c&sig=<SIG>%3D"
+Discovered: 2025-01-18T14:14:08.946141
+--------------------------------------------------
+Finding #126
+Repository: sawyerf/HackSheet
+File: wiki/Cloud.md
+URL: https://github.com/sawyerf/HackSheet/blob/57c6c16ef723de98dec94d63b3d21f7a39f55655/wiki/Cloud.md
+Token: se=<SE>&sp=<SP>&sv=<SV>&sr=c&sig=<SIG>%3D"
+Discovered: 2025-01-18T14:14:08.946748
+--------------------------------------------------
+Finding #127
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/All_X101/All_X101.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:14:09.568858
+--------------------------------------------------
+Finding #128
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Word_X152/Word_X152.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:14:09.570412
+--------------------------------------------------
+Finding #129
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Word_X101/Word_X101.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:14:09.571943
+--------------------------------------------------
+Finding #130
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/All_X152/All_X152.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:14:09.572142
+--------------------------------------------------
+Finding #131
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Latex_X101/Latex_X101.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:14:09.574391
+--------------------------------------------------
+Finding #132
+Repository: doc-analysis/TableBank
+File: MODEL_ZOO.md
+URL: https://github.com/doc-analysis/TableBank/blob/0dc8df41751201ed684acf6b06f3c0e9a802b807/MODEL_ZOO.md
+Token: sig=a9VXrihTzbWyVfaIDlIT1Z0FoR1073VB0RLQUMuudD4%3D)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Latex_X152/Latex_X152.yaml?sv=2022-11-02
+Discovered: 2025-01-18T14:14:09.574824
+--------------------------------------------------
+Finding #133
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A17%3A47Z&se=2027-11-25T12%3A17%3A00Z&sr=b&sp=r&sig=RqL7Eeye4385oaO1nvVvRwC4d%2ByhpEVGM3xmS4GcKkQ%3D),
+Discovered: 2025-01-18T14:14:10.261851
+--------------------------------------------------
+Finding #134
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A13%3A42Z&se=2027-11-25T12%3A13%3A00Z&sr=b&sp=r&sig=0BP3pOiE4AFkK4BTgQl5Dy6iJWxHuJffpjU4LFMTfWY%3D)
+Discovered: 2025-01-18T14:14:10.262754
+--------------------------------------------------
+Finding #135
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A18%3A49Z&se=2027-11-25T12%3A18%3A00Z&sr=b&sp=r&sig=BJigddAMHfNUtQuTGH8bJUrzAO3LfaeSm48AXUqZngY%3D"
+Discovered: 2025-01-18T14:14:10.262940
+--------------------------------------------------
+Finding #136
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A16%3A38Z&se=2027-11-25T12%3A16%3A00Z&sr=b&sp=r&sig=t35v4kezDcSOm9Q9E767PhNGAQRsiYm%2FMSDgHIz%2Fvto%3D),
+Discovered: 2025-01-18T14:14:10.263130
+--------------------------------------------------
+Finding #137
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A13%3A18Z&se=2027-11-25T12%3A13%3A00Z&sr=b&sp=r&sig=ahM%2FyI8fg9D4obCZsNKaxLzPVz2y8RX8ydZNToGavC4%3D)
+Discovered: 2025-01-18T14:14:10.263305
+--------------------------------------------------
+Finding #138
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A18%3A29Z&se=2027-11-25T12%3A18%3A00Z&sr=b&sp=r&sig=xtI8rmEqjMmN1b1bcE0KB9ePUax3SuRfOt%2Bp2ATH9ng%3D)
+Discovered: 2025-01-18T14:14:10.263441
+--------------------------------------------------
+Finding #139
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A19%3A19Z&se=2027-11-25T12%3A19%3A00Z&sr=b&sp=r&sig=8yWqesQACrJSi0JMLIA0uAbNlMQKb653gOXjXjQuIW4%3D)
+Discovered: 2025-01-18T14:14:10.263570
+--------------------------------------------------
+Finding #140
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A17%3A18Z&se=2027-11-25T12%3A17%3A00Z&sr=b&sp=r&sig=BD%2BOsI%2F6R905vBJUlrWlgx3%2BmaBRsa2rQcHBChhW0eE%3D),
+Discovered: 2025-01-18T14:14:10.263701
+--------------------------------------------------
+Finding #141
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A18%3A49Z&se=2027-11-25T12%3A18%3A00Z&sr=b&sp=r&sig=BJigddAMHfNUtQuTGH8bJUrzAO3LfaeSm48AXUqZngY%3D)
+Discovered: 2025-01-18T14:14:10.263837
+--------------------------------------------------
+Finding #142
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A15%3A09Z&se=2027-11-25T12%3A15%3A00Z&sr=b&sp=r&sig=AL3q15eyhPBHaWY0FOop9goHVq8CbNluABDk%2FS94rkI%3D)
+Discovered: 2025-01-18T14:14:10.263964
+--------------------------------------------------
+Finding #143
+Repository: microsoft/BridgeTower
+File: README.md
+URL: https://github.com/microsoft/BridgeTower/blob/90f4bac0da3c217fe5e18a80e0ae3147c9ef05da/README.md
+Token: sv=2020-10-02&st=2022-11-24T12%3A15%3A27Z&se=2027-11-25T12%3A15%3A00Z&sr=b&sp=r&sig=IccPmnxQYIpWO8m6kwtEFir9wmVq1SsLOqmw0FRc9hY%3D)
+Discovered: 2025-01-18T14:14:10.264088
+--------------------------------------------------
+Finding #144
+Repository: ChunyuanLI/Optimus
+File: doc/optimius_for_snli.md
+URL: https://github.com/ChunyuanLI/Optimus/blob/f3190fe82578f91929ac4984aa8868b61a3eee22/doc/optimius_for_snli.md
+Token: sp=r&st=2023-08-28T00:40:43Z&se=3023-08-28T08:40:43Z&sv=2022-11-02&sr=c&sig=kUkSFqeHFfTeqxxpvqVdICCJupwODFwJprCAW2o4irE%3D)
+Discovered: 2025-01-18T14:14:13.328440
+--------------------------------------------------
+Finding #145
+Repository: LLaVA-VL/LLaVA-Med-preview
+File: download_data.sh
+URL: https://github.com/LLaVA-VL/LLaVA-Med-preview/blob/399ccffdf39924c7f41cc6db44b90577fa9eea0b/download_data.sh
+Token: sv=2021-10-04&st=2023-08-21T06%3A35%3A05Z&se=2024-02-22T07%3A35%3A00Z&sr=c&sp=rl&sig=nB35sBICKkq1uJoeUqf524GLGUiLG16sUISgIJ%2BsNXc%3D'
+Discovered: 2025-01-18T14:14:15.293750
+--------------------------------------------------
+Finding #146
+Repository: NINAnor/rare_species_detections
+File: dcase_setup.sh
+URL: https://github.com/NINAnor/rare_species_detections/blob/0596963420a84913e2658a35ccc75c8e723b562c/dcase_setup.sh
+Token: sv=2020-08-04&st=2023-03-01T07%3A51%3A05Z&se=2033-03-02T07%3A51%3A00Z&sr=c&sp=rl&sig=QJXmSJG9DbMKf48UDIU1MfzIro8HQOf3sqlNXiflY1I%3D"
+Discovered: 2025-01-18T14:14:16.524038
+--------------------------------------------------
+Finding #147
+Repository: Autodesk-Forge/design.automation-.net-input.output.sample
+File: Program.cs
+URL: https://github.com/Autodesk-Forge/design.automation-.net-input.output.sample/blob/e14ed799399571fe36effbe73c7e8159a0b5d7ba/Program.cs
+Token: sv=2017-04-17&sr=b&sig=yw1wWAAD9XavECD5B6jt8DoUY5cozQQukoGu8WoD0XM%3D&st=2018-09-30T07%3A32%3A49Z&se=2018-10-01T07%3A37%3A49Z&sp=rw"
+Discovered: 2025-01-18T14:14:17.138238
+--------------------------------------------------
+Finding #148
+Repository: bdbcat/oesenc_pi
+File: API12.txt
+URL: https://github.com/bdbcat/oesenc_pi/blob/8eb5bd6239300de27fc2fa78a226d96eb0eb13d4/API12.txt
+Token: sr=b&sp=r&sig=QsfNOaCaMI61NS1Xm1JAtThklq5zXFpiQiKt7/5o1AA%3D&sv=2015-07-08&se=2017-05-26T12%3A04%3A21Z</link>
+Discovered: 2025-01-18T14:14:17.753695
+--------------------------------------------------
+Finding #149
+Repository: garyttierney/me3
+File: CONTRIBUTING.md
+URL: https://github.com/garyttierney/me3/blob/286e05fc2a4f3370514225d6e2a997f6fe75461b/CONTRIBUTING.md
+Token: sv=2021-06-08&sr=b&sig=lbO4T7%2B1mXDA%2FhvkaUhjvl9a3X6YW4x5E3imSYmjcQE%3D)
+Discovered: 2025-01-18T14:14:18.469395
+--------------------------------------------------
+Finding #150
+Repository: solliancenet/nosql-openhack
+File: deploy.ps1
+URL: https://github.com/solliancenet/nosql-openhack/blob/f8eb8dc829e0e7304488a3367bfcbd6cb0154b32/deploy.ps1
+Token: sp=rl&st=2019-11-26T21:16:46Z&se=2025-11-27T21:36:00Z&sv=2019-02-02&sr=b&sig=P15nBXR2bD2jBnHX92%2BwWRxMnvTeUl3EdBNhLXnZ95s%3D"
+Discovered: 2025-01-18T14:14:18.980789
+--------------------------------------------------
+Finding #151
+Repository: zooniverse/subject-assistant
+File: src/demo-data/task.txt
+URL: https://github.com/zooniverse/subject-assistant/blob/c86c3eb6d589b4e11c6d1c02cf6d49917689d8ea/src/demo-data/task.txt
+Token: se=2019-11-18T16%3A58%3A39Z&sp=r&sv=2018-03-28&sr=b&sig=ckhB5s7UPu3OYd6B7Yr6GzryP%2B%2BGvb5jPN%2Bd477hvMU%3D"
+Discovered: 2025-01-18T14:14:19.696820
+--------------------------------------------------
+Finding #152
+Repository: zooniverse/subject-assistant
+File: src/demo-data/task.txt
+URL: https://github.com/zooniverse/subject-assistant/blob/c86c3eb6d589b4e11c6d1c02cf6d49917689d8ea/src/demo-data/task.txt
+Token: se=2019-11-18T16%3A58%3A39Z&sp=r&sv=2018-03-28&sr=b&sig=a3DAK8QGRvAWSWIvdMxFoUaT7oZq%2B3wecXn%2BDeHD7os%3D",
+Discovered: 2025-01-18T14:14:19.697584
+--------------------------------------------------
+Finding #153
+Repository: zooniverse/subject-assistant
+File: src/demo-data/task.txt
+URL: https://github.com/zooniverse/subject-assistant/blob/c86c3eb6d589b4e11c6d1c02cf6d49917689d8ea/src/demo-data/task.txt
+Token: se=2019-11-18T16%3A58%3A39Z&sp=r&sv=2018-03-28&sr=b&sig=/wme8YAFds0pMAvjqO6/vOdyl464j0cIJKD%2B%2Bo9twpA%3D",
+Discovered: 2025-01-18T14:14:19.698081
+--------------------------------------------------
+Finding #154
+Repository: DFE-Digital/get-into-teaching-app
+File: google/drive/upload.txt
+URL: https://github.com/DFE-Digital/get-into-teaching-app/blob/a39ac656097b3b6da882112d9b879966353a97f5/google/drive/upload.txt
+Token: sv=2020-02-10&sr=c&sig=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
+Discovered: 2025-01-18T14:14:20.413848
+--------------------------------------------------
+Finding #155
+Repository: microsoft/Health-AI-Blueprints-TA4HVisualizer
+File: server.js
+URL: https://github.com/microsoft/Health-AI-Blueprints-TA4HVisualizer/blob/4862cf1dc5e0ed46f08cc1e4ed7d80773716485d/server.js
+Token: sv=${(signedVersion)}
+Discovered: 2025-01-18T14:14:21.223308
+--------------------------------------------------
+Finding #156
+Repository: rdavisau/tbc
+File: readme.md
+URL: https://github.com/rdavisau/tbc/blob/bcb04dc9de457e37fd87cfc27147b8cd8229c16e/readme.md
+Token: sv=2019-12-12&sr=b&sig=eW2DWnMw162dTqEN7DIAzrB6J6MdRWIBZKoRfO32XF8%3D
+Discovered: 2025-01-18T14:14:21.747984
+--------------------------------------------------
+Finding #157
+Repository: rdavisau/tbc
+File: readme.md
+URL: https://github.com/rdavisau/tbc/blob/bcb04dc9de457e37fd87cfc27147b8cd8229c16e/readme.md
+Token: sv=2020-08-04&st=2022-04-13T06%3A53%3A20Z&se=2069-04-20T06%3A53%3A00Z&sr=b&sp=r&sig=vVw2wFzbDjcpCk2eOLqcFpffHnQuGEBBK5EwhCVotcc%3D)
+Discovered: 2025-01-18T14:14:21.748606
+--------------------------------------------------
+Finding #158
+Repository: msalvaris/DaskKubernetes
+File: storage.py
+URL: https://github.com/msalvaris/DaskKubernetes/blob/eb197bd591ad5e33b90f8e78eec8161a21eff9e7/storage.py
+Token: st=2019-05-30T07%3A57%3A02Z&se=2030-05-31T07%3A57%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=gbyC50EbB8SJjUgO0Bc8YWfm5eAIIh4vqBq%2FCNZu4ms%3D",
+Discovered: 2025-01-18T14:14:22.872038
+--------------------------------------------------
+Finding #159
+Repository: msalvaris/DaskKubernetes
+File: storage.py
+URL: https://github.com/msalvaris/DaskKubernetes/blob/eb197bd591ad5e33b90f8e78eec8161a21eff9e7/storage.py
+Token: st=2019-05-27T13%3A14%3A10Z&se=2030-05-28T13%3A14%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=zwrdFPZo%2F8z9eb12HndzvA020X3MOGDgUmHIlDJwp8Y%3D",
+Discovered: 2025-01-18T14:14:22.872732
+--------------------------------------------------
+Finding #160
+Repository: johnthiriet/Xamarin.Android.Huawei.Hms
+File: build.cake
+URL: https://github.com/johnthiriet/Xamarin.Android.Huawei.Hms/blob/5e91aa6bdd96c923e550b33cd8318a70ddd1f17b/build.cake
+Token: sv=2019-12-12&sr=b&sig=u0AuiaLX%2FDGnh7SRZoLP4bkKrekdegTHmGrW4YSdqLs%3D",
+Discovered: 2025-01-18T14:14:23.589051
+--------------------------------------------------
+Finding #161
+Repository: rahulbagal/upload-file-azure-sas-url
+File: main.py
+URL: https://github.com/rahulbagal/upload-file-azure-sas-url/blob/2a81d4c0c2a332256a9247a6cd1a592281a24051/main.py
+Token: st=2018-03-13T09%3A05%3A00Z&se=2019-03-14T09%3A05%3A00Z&sp=rw&sv=2015-12-11&sr=c&sig=IP45%2FplSvHbSJsW1UcEA7Y1tertiMIiiYq3uCbCjn%2FA%3D"
+Discovered: 2025-01-18T14:14:24.207286
+--------------------------------------------------
+Finding #162
+Repository: Advsol/Innovations2019-react-starter
+File: sync-demo.bat
+URL: https://github.com/Advsol/Innovations2019-react-starter/blob/ce912fdb6d1f3535e8a8e2d17c412b057b118c71/sync-demo.bat
+Token: st=2019-03-06T11%%3A30%%3A20Z&se=2019-03-21T19%%3A30%%3A00Z&sp=rwdl&sv=2018-03-28&sr=c&sig=[hidden]nPOpTLsfybMFskLi7sKUwMPyTRR57GPNFqWq5rk%%3D"
+Discovered: 2025-01-18T14:14:24.796938
+--------------------------------------------------
+Finding #163
+Repository: Computer-Vision-in-the-Wild/Elevater_Toolkit_IC
+File: submission_file_readme.md
+URL: https://github.com/Computer-Vision-in-the-Wild/Elevater_Toolkit_IC/blob/00d0af78559d5f3d800ae4668210e6bd1f2f84b9/submission_file_readme.md
+Token: sp=r&st=2023-08-28T01:41:20Z&se=3023-08-28T09:41:20Z&sv=2022-11-02&sr=c&sig=Msoq5dIl%2Fve6F01edGr8jgcZUt7rtsuJ896xvstSNfM%3D).
+Discovered: 2025-01-18T14:14:25.813915
+--------------------------------------------------
+Finding #164
+Repository: Computer-Vision-in-the-Wild/Elevater_Toolkit_IC
+File: submission_file_readme.md
+URL: https://github.com/Computer-Vision-in-the-Wild/Elevater_Toolkit_IC/blob/00d0af78559d5f3d800ae4668210e6bd1f2f84b9/submission_file_readme.md
+Token: sp=r&st=2023-08-28T01:41:20Z&se=3023-08-28T09:41:20Z&sv=2022-11-02&sr=c&sig=Msoq5dIl%2Fve6F01edGr8jgcZUt7rtsuJ896xvstSNfM%3D)
+Discovered: 2025-01-18T14:14:25.814507
+--------------------------------------------------
+Finding #165
+Repository: SUC-DriverOld/so-vits-svc-Deployment-Documents
+File: README_zh_CN.md
+URL: https://github.com/SUC-DriverOld/so-vits-svc-Deployment-Documents/blob/aead87d25244c5911894b601c0374ae7eda0dc34/README_zh_CN.md
+Token: sv=2020-08-04&st=2023-03-01T07%3A51%3A05Z&se=2033-03-02T07%3A51%3A00Z&sr=c&sp=rl&sig=QJXmSJG9DbMKf48UDIU1MfzIro8HQOf3sqlNXiflY1I%3D)
+Discovered: 2025-01-18T14:14:26.976334
+--------------------------------------------------
+Finding #166
+Repository: sharkawy98/raisa-tasks
+File: task0.py
+URL: https://github.com/sharkawy98/raisa-tasks/blob/942c6f73cac48817de27274d178852823f54b71c/task0.py
+Token: sp=r&st=2022-05-31T17:49:47Z&se=2022-06-05T21:59:59Z&sv=2020-08-04&sr=c&sig=9M8ql9nYOhEYdmAOKUyetWbCU8hoWS72UFczkShdbeY%3D'
+Discovered: 2025-01-18T14:14:28.400608
+--------------------------------------------------
+Finding #167
+Repository: davew-msft/synapse
+File: Lab030.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/Lab030.sql
+Token: sv=2020-04-08&st=2020-07-12T19%3A04%3A00Z&se=2031-07-13T19%3A04%3A00Z&sr=c&sp=rl&sig=82oXyOImJpl2MvJzBrUdhlECZvEvY4CwH9%2B6isoNty8%3D';
+Discovered: 2025-01-18T14:14:28.910934
+--------------------------------------------------
+Finding #168
+Repository: davew-msft/synapse
+File: Lab030.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/Lab030.sql
+Token: sv=2020-04-08&st=2020-07-12T19%3A04%3A00Z&se=2031-07-13T19%3A04%3A00Z&sr=c&sp=rl&sig=82oXyOImJpl2MvJzBrUdhlECZvEvY4CwH9%2B6isoNty8%3D
+Discovered: 2025-01-18T14:14:28.911708
+--------------------------------------------------
+Finding #169
+Repository: davew-msft/synapse
+File: Lab030.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/Lab030.sql
+Token: sv=2020-04-08&st=2020-07-12T19%3A04%3A00Z&se=2031-07-13T19%3A04%3A00Z&sr=c&sp=rl&sig=82oXyOImJpl2MvJzBrUdhlECZvEvY4CwH9%2B6isoNty8%3D'
+Discovered: 2025-01-18T14:14:28.911910
+--------------------------------------------------
+Finding #170
+Repository: sharkawy98/raisa-tasks
+File: task4.py
+URL: https://github.com/sharkawy98/raisa-tasks/blob/942c6f73cac48817de27274d178852823f54b71c/task4.py
+Token: sp=acw&st=2022-05-31T17:54:22Z&se=2022-06-05T10:59:59Z&sv=2020-08-04&sr=c&sig=H0g%2BY%2FOnNIaYNVTsX%2FP42buWaowxIlxQDJ0xqH0gvqQ%3D'
+Discovered: 2025-01-18T14:14:29.424581
+--------------------------------------------------
+Finding #171
+Repository: seguler/static-website-blob-browser
+File: src/index.js
+URL: https://github.com/seguler/static-website-blob-browser/blob/2d4847cd2c4465cc1b618c3f6df317bee520f1a7/src/index.js
+Token: st=2018-11-06T06%3A15%3A24Z&se=2019-11-07T06%3A15%3A00Z&sp=rl&sv=2018-03-28&sr=c&sig=4vCT7aInDWRiypkuYlezN8dos0K2h2DvQ0pnNkMJSFs%3D`;
+Discovered: 2025-01-18T14:14:29.937522
+--------------------------------------------------
+Finding #172
+Repository: zheng-ningxin/SparTA
+File: script/init_env.sh
+URL: https://github.com/zheng-ningxin/SparTA/blob/f75aa2d64084584dd98baef1b7b8417100186e7a/script/init_env.sh
+Token: sp=rl&st=2022-04-13T11:26:02Z&se=2022-12-31T19:26:02Z&sv=2020-08-04&sr=c&sig=rU%2By1QHWTP7jl80p%2FxItK5dVtgvQ6Xpl3rTX%2FNaACX4%3D"
+Discovered: 2025-01-18T14:14:30.551465
+--------------------------------------------------
+Finding #173
+Repository: davew-msft/synapse
+File: serverless_etl.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/serverless_etl.sql
+Token: sv=2020-04-08&st=2020-07-12T19%3A36%3A00Z&se=2026-07-13T19%3A36%3A00Z&sr=c&sp=rl&sig=xVcusZsNwsTtvfty1xVthRNLpF6ASylmKezwYACVXT8%3D';
+Discovered: 2025-01-18T14:14:31.130312
+--------------------------------------------------
+Finding #174
+Repository: davew-msft/synapse
+File: serverless_etl.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/serverless_etl.sql
+Token: sv=2020-04-08&st=2020-07-12T19%3A36%3A00Z&se=2026-07-13T19%3A36%3A00Z&sr=c&sp=rl&sig=xVcusZsNwsTtvfty1xVthRNLpF6ASylmKezwYACVXT8%3D
+Discovered: 2025-01-18T14:14:31.130939
+--------------------------------------------------
+Finding #175
+Repository: davew-msft/synapse
+File: serverless_etl.sql
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/serverless_etl.sql
+Token: sv=2020-02-10&st=2020-07-12T20%3A14%3A00Z&se=2031-07-13T20%3A14%3A00Z&sr=c&sp=racwdlmeop&sig=80q0VmCbj9cCHBVhgRGIa5%2FlBrfSgnZdTsxTHdcefbo%3D'
+Discovered: 2025-01-18T14:14:31.131256
+--------------------------------------------------
+Finding #176
+Repository: Raphael-Hao/brainstorm
+File: benchmark/swin_moe/run.md
+URL: https://github.com/Raphael-Hao/brainstorm/blob/4377cca00b0c24bef1da78857773612d0a2f2aaa/benchmark/swin_moe/run.md
+Token: sv=2020-10-02&st=2022-04-24T14%3A19%3A45Z&se=2022-05-25T14%3A19%3A00Z&sr=c&sp=rl&sig=uPyBaj9zL8bYQnDJyDlNfitaE%2FblBjBPA3J3fMHgbD0%3D"
+Discovered: 2025-01-18T14:14:31.780378
+--------------------------------------------------
+Finding #177
+Repository: sharkawy98/raisa-tasks
+File: outputs/wells.py
+URL: https://github.com/sharkawy98/raisa-tasks/blob/942c6f73cac48817de27274d178852823f54b71c/outputs/wells.py
+Token: sp=acw&st=2022-05-31T17:54:22Z&se=2022-06-05T10:59:59Z&sv=2020-08-04&sr=c&sig=H0g%2BY%2FOnNIaYNVTsX%2FP42buWaowxIlxQDJ0xqH0gvqQ%3D'
+Discovered: 2025-01-18T14:14:32.329398
+--------------------------------------------------
+Finding #178
+Repository: sharkawy98/raisa-tasks
+File: outputs/wells.py
+URL: https://github.com/sharkawy98/raisa-tasks/blob/942c6f73cac48817de27274d178852823f54b71c/outputs/wells.py
+Token: sp=r&st=2022-05-31T17:49:47Z&se=2022-06-05T21:59:59Z&sv=2020-08-04&sr=c&sig=9M8ql9nYOhEYdmAOKUyetWbCU8hoWS72UFczkShdbeY%3D'
+Discovered: 2025-01-18T14:14:32.330030
+--------------------------------------------------
+Finding #179
+Repository: zhengkid/PartialFormer
+File: azsync.py
+URL: https://github.com/zhengkid/PartialFormer/blob/d1ed9598300d2557347f6a6f7769240f14dde08c/azsync.py
+Token: sv=2020-10-02&st=2022-09-25T04%3A34%3A31Z&se=2024-09-26T04%3A34%3A00Z&sr=c&sp=racwdxl&sig=qhi5AaczGeVZnUnaBe%2F0jpes6LYqMlAqoqOHhH7TkuE%3D"
+Discovered: 2025-01-18T14:14:33.009442
+--------------------------------------------------
+Finding #180
+Repository: kyegomez/KosmosX-API
+File: Dockerfile
+URL: https://github.com/kyegomez/KosmosX-API/blob/be4648feee71a31c43b9bebea6490fb340f99ec3/Dockerfile
+Token: sv=2021-10-04&st=2023-06-08T11%3A16%3A02Z&se=2033-06-09T11%3A16%3A00Z&sr=c&sp=r&sig=N4pfCVmSeq4L4tS8QbrFVsX6f6q844eft8xSuXdxU48%3D"
+Discovered: 2025-01-18T14:14:33.606796
+--------------------------------------------------
+Finding #181
+Repository: OLC-Bioinformatics/ConFindr
+File: docs/usage.md
+URL: https://github.com/OLC-Bioinformatics/ConFindr/blob/fb5736383919847376e6d198b34d1cbde78eb831/docs/usage.md
+Token: sv=2019-10-10&sr=b&sig=ncG%2F5MzKt57p1BUdyFtnhJUk9Yfi6x3rFhSQWPlT2Ek%3D'
+Discovered: 2025-01-18T14:14:34.236187
+--------------------------------------------------
+Finding #182
+Repository: OLC-Bioinformatics/ConFindr
+File: docs/usage.md
+URL: https://github.com/OLC-Bioinformatics/ConFindr/blob/fb5736383919847376e6d198b34d1cbde78eb831/docs/usage.md
+Token: sv=2019-10-10&sr=b&sig=zF01kDCgmsmBWJ0cSpyfYi6CLldIjalwU2RgsswKmmI%3D'
+Discovered: 2025-01-18T14:14:34.236772
+--------------------------------------------------
+Finding #183
+Repository: hakyimlab/gtex-gwas-analysis
+File: data/gwas_metadata.txt
+URL: https://github.com/hakyimlab/gtex-gwas-analysis/blob/300aa123dd769ab175fbf7bb9b26c9e3e4439fa0/data/gwas_metadata.txt
+Token: se=2016-06-23&sr=b&sp=r&sig=9ZfTtoW4MfZgyHl2XR89EaKa6lj%2Fjb3s9QHxMfMu9vM%3D&sv=2014-02-14
+Discovered: 2025-01-18T14:14:34.886983
+--------------------------------------------------
+Finding #184
+Repository: hakyimlab/gtex-gwas-analysis
+File: data/gwas_metadata.txt
+URL: https://github.com/hakyimlab/gtex-gwas-analysis/blob/300aa123dd769ab175fbf7bb9b26c9e3e4439fa0/data/gwas_metadata.txt
+Token: se=2016-06-23&sr=b&sp=r&sig=xT7LfiohtVu8z7L8W6oyKo4eudsOoyrAbCc7CMo6m5s%3D&sv=2014-02-14
+Discovered: 2025-01-18T14:14:34.887563
+--------------------------------------------------
+Finding #185
+Repository: hakyimlab/gtex-gwas-analysis
+File: data/gwas_metadata.txt
+URL: https://github.com/hakyimlab/gtex-gwas-analysis/blob/300aa123dd769ab175fbf7bb9b26c9e3e4439fa0/data/gwas_metadata.txt
+Token: se=2016-06-23&sr=b&sp=r&sig=VIFr%2F%2B6mTZpVFAoQeFeoIW5pn2RQeQ2MlLo9KocXAWY%3D&sv=2014-02-14
+Discovered: 2025-01-18T14:14:34.887812
+--------------------------------------------------
+Finding #186
+Repository: hakyimlab/gtex-gwas-analysis
+File: data/gwas_metadata.txt
+URL: https://github.com/hakyimlab/gtex-gwas-analysis/blob/300aa123dd769ab175fbf7bb9b26c9e3e4439fa0/data/gwas_metadata.txt
+Token: se=2016-06-23&sr=b&sp=r&sig=r18jfrRnXNLMgnJpf1TchLj6PeRYAcHNvU5OS3wT%2BmQ%3D&sv=2014-02-14
+Discovered: 2025-01-18T14:14:34.888112
+--------------------------------------------------
+Finding #187
+Repository: katha-ai/VELOCITI
+File: model_loaders.py
+URL: https://github.com/katha-ai/VELOCITI/blob/109b117ba093d7c76adbb064d31d27d3ca303ca0/model_loaders.py
+Token: sv=2021-12-02&sr=b&sig=91OEG2MuszQmr16N%2Bt%2FLnvlwY3sc9CNhbyxYT9rupw0%3D"
+Discovered: 2025-01-18T14:14:35.398359
+--------------------------------------------------
+Finding #188
+Repository: delormej/irt_client
+File: src/scripts/main.js
+URL: https://github.com/delormej/irt_client/blob/9f436e84024f6a88aef0e218eae509da21e2f714/src/scripts/main.js
+Token: se=2020-01-01&sp=w&sv=2017-07-29&sr=c&sig=/czaS/1tXZbewLOjC27a5VIapkOaO4iqbxkiZ0B/kLU%3D";
+Discovered: 2025-01-18T14:14:36.081668
+--------------------------------------------------
+Finding #189
+Repository: DestructiveSoul/GKEDemo
+File: Dockerfile
+URL: https://github.com/DestructiveSoul/GKEDemo/blob/c6b9a08c0493b3ced4e08ccf4e9ef035ba12fa51/Dockerfile
+Token: sv=2022-11-02&sr=b&sig=%2B9FKFYCumZ9%2B8hE97jLflMr1jRMssp2MnXPt844aDIM%3D"
+Discovered: 2025-01-18T14:14:36.591749
+--------------------------------------------------
+Finding #190
+Repository: Advsol/Innovations2019-config-page
+File: sync-demo.bat
+URL: https://github.com/Advsol/Innovations2019-config-page/blob/fda2c903ada04cd8f93da43e75f1aa36a9c0c841/sync-demo.bat
+Token: st=2019-03-06T11%%3A30%%3A20Z&se=2019-03-21T19%%3A30%%3A00Z&sp=rwdl&sv=2018-03-28&sr=c&sig=[hidden]nPOpTLsfybMFskLi7sKUwMPyTRR57GPNFqWq5rk%%3D"
+Discovered: 2025-01-18T14:14:39.868017
+--------------------------------------------------
+Finding #191
+Repository: shaneochotny/Azure-Synapse-Analytics-PoC
+File: deploySynapse.sh
+URL: https://github.com/shaneochotny/Azure-Synapse-Analytics-PoC/blob/52ee64c5bf68b2639abbd4155ac2b15df6130ca8/deploySynapse.sh
+Token: sv=2021-04-10&st=2022-10-01T04%3A00%3A00Z&se=2023-12-01T05%3A00%3A00Z&sr=c&sp=rl&sig=eorb8V3hDel5dR4%2Ft2JsWVwTBawsxIOUYADj4RiKeDo%3D"
+Discovered: 2025-01-18T14:14:40.396881
+--------------------------------------------------
+Finding #192
+Repository: jackgerrits/vw-perf
+File: prepare.py
+URL: https://github.com/jackgerrits/vw-perf/blob/a1d6d58352dbe01381a11a43bc7e0c0766e99df5/prepare.py
+Token: sv=2018-03-28&sig=Y9xgnrzemDmLdLfqa9xIPdIBWMESCvMswTNTry%2Bgwj8%3D&sr=b",
+Discovered: 2025-01-18T14:14:42.489594
+--------------------------------------------------
+Finding #193
+Repository: extratone/bilge
+File: posts/licking-missouri.md
+URL: https://github.com/extratone/bilge/blob/ca7371838e6bcb33811693b47974f0157c928cba/posts/licking-missouri.md
+Token: se=2019-06-19T12%3A51%3A01Z&sp=r&sv=2018-03-28&sr=b&sig=HAeULISGzXfAomSVQ41Xm%2BHTNCcAFlwUmFqPY3G/Lc0%3D),
+Discovered: 2025-01-18T14:14:43.038299
+--------------------------------------------------
+Finding #194
+Repository: wsteitz/mars_express
+File: src/ensemble.py
+URL: https://github.com/wsteitz/mars_express/blob/95172239316b2b2cb1e0cc18dd81a827b88229a3/src/ensemble.py
+Token: sv=2012-02-12&se=2015-05-03T21%3A22%3A17Z&sr=b&sp=r&sig=rkeA7EJC%2BiQ%2FJ%2BcMpcA4lYQLFh6ubNqs2XAkGtFsAv0%3D
+Discovered: 2025-01-18T14:14:44.172555
+--------------------------------------------------
+Finding #195
+Repository: microsoft-healthcare-madison/team
+File: videos.md
+URL: https://github.com/microsoft-healthcare-madison/team/blob/0a1797e531219ff7be867dfb068b0a61659ec7b0/videos.md
+Token: sv=2019-12-12&sr=b&sig=ktPRN0QT9xXgJ4tVDiSSE76c7F4izp7gwideItPrh8o%3D)
+Discovered: 2025-01-18T14:14:45.423494
+--------------------------------------------------
+Finding #196
+Repository: microsoft-healthcare-madison/team
+File: videos.md
+URL: https://github.com/microsoft-healthcare-madison/team/blob/0a1797e531219ff7be867dfb068b0a61659ec7b0/videos.md
+Token: sv=2019-12-12&sr=b&sig=5aXFMhB8TI7Vyx6KYeEJY4sU3ew5qOA0IQWXCciVyLg%3D),
+Discovered: 2025-01-18T14:14:45.424030
+--------------------------------------------------
+Finding #197
+Repository: microsoft-healthcare-madison/team
+File: videos.md
+URL: https://github.com/microsoft-healthcare-madison/team/blob/0a1797e531219ff7be867dfb068b0a61659ec7b0/videos.md
+Token: sv=2019-12-12&sr=b&sig=pgPdDtgZLwn495quSly6JN5LlgvacjVDZ1Ego85Lwo0%3D)
+Discovered: 2025-01-18T14:14:45.424249
+--------------------------------------------------
+Finding #198
+Repository: microsoft-healthcare-madison/team
+File: videos.md
+URL: https://github.com/microsoft-healthcare-madison/team/blob/0a1797e531219ff7be867dfb068b0a61659ec7b0/videos.md
+Token: sv=2019-12-12&sr=b&sig=iP6HkjqytRle3b6aZvx9j%2Br8NG47K1kN35I3nN%2BTaHo%3D)
+Discovered: 2025-01-18T14:14:45.424429
+--------------------------------------------------
+Finding #199
+Repository: microsoft-healthcare-madison/team
+File: videos.md
+URL: https://github.com/microsoft-healthcare-madison/team/blob/0a1797e531219ff7be867dfb068b0a61659ec7b0/videos.md
+Token: sv=2019-12-12&sr=b&sig=cnNADPd0AvLGiDO1pmASVYoz4FvNBp0exnjAjQpevbY%3D)
+Discovered: 2025-01-18T14:14:45.424610
+--------------------------------------------------
+Finding #200
+Repository: keboola/sapi-r-client
+File: R/client.R
+URL: https://github.com/keboola/sapi-r-client/blob/b3b36c23743d11c828f706d78970f67845adc394/R/client.R
+Token: sv=2017-11-09&sr=c&st=2023-03-08T18:47:29Z&se=2023-03-09T06:47:29Z&sp=rwl&sig=o89P1pW04xbgRB7wrUFOq%2BLZRJxSu%2FIgcWt32B1P1os%3D
+Discovered: 2025-01-18T14:14:47.150708
+--------------------------------------------------
+Finding #201
+Repository: keboola/sapi-r-client
+File: R/client.R
+URL: https://github.com/keboola/sapi-r-client/blob/b3b36c23743d11c828f706d78970f67845adc394/R/client.R
+Token: sv=2017-11-09&sr=c&st=2023-03-08T18:47:29Z&se=2023-03-09T06:47:29Z&sp=rwl&sig=aaaaaaaaaaa%3D
+Discovered: 2025-01-18T14:14:47.151237
+--------------------------------------------------
+Finding #202
+Repository: JeremyMorgan/Cheesy-Vue-Blog
+File: pushfiles.bat
+URL: https://github.com/JeremyMorgan/Cheesy-Vue-Blog/blob/1c47f1488a37558a49b7e8f3a06469316407e420/pushfiles.bat
+Token: sv=2020-04-08&se=2021-06-01T19%3A39%3A53Z&sr=c&sp=rwl&sig=zUnQQ2h28vehAYyuUViIisvN0tn9Bu13lp1aI6Z%2BtIs%3D"
+Discovered: 2025-01-18T14:14:47.754572
+--------------------------------------------------
+Finding #203
+Repository: cookiethome/my-first-static-web-app
+File: src/script.js
+URL: https://github.com/cookiethome/my-first-static-web-app/blob/d29b7dacc44e666942025651de6932eca66e3a14/src/script.js
+Token: sv=2022-11-02&sr=b&sig=%2Bcw6TgyluFV%2FRRMgvFiLjTTJvBN%2BF3RaGMhezVLrPz4%3D"
+Discovered: 2025-01-18T14:14:49.266608
+--------------------------------------------------
+Finding #204
+Repository: cookiethome/my-first-static-web-app
+File: src/script.js
+URL: https://github.com/cookiethome/my-first-static-web-app/blob/d29b7dacc44e666942025651de6932eca66e3a14/src/script.js
+Token: sv=2022-11-02&sr=b&sig=HPyeZlSQoEOGb3IajUsxEyQA0gBqdW3pwN%2F%2BFX7B0iA%3D"
+Discovered: 2025-01-18T14:14:49.267877
+--------------------------------------------------
+Finding #205
+Repository: cookiethome/my-first-static-web-app
+File: src/script.js
+URL: https://github.com/cookiethome/my-first-static-web-app/blob/d29b7dacc44e666942025651de6932eca66e3a14/src/script.js
+Token: sv=2022-11-02&sr=b&sig=InvV22zP7qTs0dyvDoxag8Z%2B5ZjeC8PMSFILsOLAGc4%3D"
+Discovered: 2025-01-18T14:14:49.268164
+--------------------------------------------------
+Finding #206
+Repository: cookiethome/my-first-static-web-app
+File: src/script.js
+URL: https://github.com/cookiethome/my-first-static-web-app/blob/d29b7dacc44e666942025651de6932eca66e3a14/src/script.js
+Token: sv=2022-11-02&sr=b&sig=h53zbY9O9YDQ%2FiFA1VBToEj4ce9DvLGAeWkB7qWvE%2FQ%3D"
+Discovered: 2025-01-18T14:14:49.268363
+--------------------------------------------------
+Finding #207
+Repository: cookiethome/my-first-static-web-app
+File: src/script.js
+URL: https://github.com/cookiethome/my-first-static-web-app/blob/d29b7dacc44e666942025651de6932eca66e3a14/src/script.js
+Token: sv=2022-11-02&sr=b&sig=NP%2FnvCNZRYLaFqqPFbWyMseSO3xXDgl3Oqzgp21Do4E%3D"
+Discovered: 2025-01-18T14:14:49.268556
+--------------------------------------------------
+Finding #208
+Repository: Ercenk/gosurvey
+File: getCounter.php
+URL: https://github.com/Ercenk/gosurvey/blob/2593a0a68e21701bd51defa23c324f28e915d446/getCounter.php
+Token: sv=2014-02-14&sr=c&sig=NKf%2BaBw%2F39YLSWiLvXrGaLdbI4ZSD2hqqCjqhacZdTw%3D&st=2015-06-03T07%3A00%3A00Z&se=2015-10-16T07%3A00%3A00Z&sp=r";
+Discovered: 2025-01-18T14:14:49.747991
+--------------------------------------------------
+Finding #209
+Repository: Dannynis/deep_learning_course
+File: day_8/data_path.txt
+URL: https://github.com/Dannynis/deep_learning_course/blob/dba5644286f6bcae0d5180dfdf136ee5dc952825/day_8/data_path.txt
+Token: sv=2019-02-02&sr=b&sig=q1j9L5U0IFM%2FcZK%2F1RH4ta%2F19%2FY30nCpXUmB3zqSOoU%3D
+Discovered: 2025-01-18T14:14:50.223048
+--------------------------------------------------
+Finding #210
+Repository: abhirockzz/azure-dataexplorer-go
+File: cli/ingest.go
+URL: https://github.com/abhirockzz/azure-dataexplorer-go/blob/08f812485143f9dc3754fb1ab5394a35a522b9ca/cli/ingest.go
+Token: st=2018-08-31T22%3A02%3A25Z&se=2020-09-01T22%3A02%3A00Z&sp=r&sv=2018-03-28&sr=b&sig=LQIbomcKI8Ooz425hWtjeq6d61uEaq21UVX7YrM61N4%3D"
+Discovered: 2025-01-18T14:14:50.750544
+--------------------------------------------------
+Finding #211
+Repository: abhirockzz/azure-dataexplorer-go
+File: cli/ingest.go
+URL: https://github.com/abhirockzz/azure-dataexplorer-go/blob/08f812485143f9dc3754fb1ab5394a35a522b9ca/cli/ingest.go
+Token: st=2018-08-31T22%3A02%3A25Z&se=2020-09-01T22%3A02%3A00Z&sp=r&sv=2018-03-28&sr=b&sig=LQIbomcKI8Ooz425hWtjeq6d61uEaq21UVX7YrM61N4%3D",
+Discovered: 2025-01-18T14:14:50.751212
+--------------------------------------------------
+Finding #212
+Repository: davew-msft/synapse
+File: Lab005.md
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/Lab005.md
+Token: sv=2020-04-08&st=2021-06-14T17%3A12%3A00Z&se=2031-06-16T17%3A12%3A00Z&sr=c&sp=rl&sig=jOJsi5E5CgxU1L0LYl02xxgrAgPLMkRnWXAizertyUY%3D
+Discovered: 2025-01-18T14:14:52.978415
+--------------------------------------------------
+Finding #213
+Repository: davew-msft/synapse
+File: Lab005.md
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/Lab005.md
+Token: sv=2020-04-08&st=2021-06-14T17%3A14%3A00Z&se=2030-06-16T17%3A14%3A00Z&sr=c&sp=rl&sig=9u7gONEHnqybJTReLN%2F5PYEO6JOY2oTKm2rRhmZuahk%3D
+Discovered: 2025-01-18T14:14:52.979123
+--------------------------------------------------
+Finding #214
+Repository: MattyLowe/com682
+File: JS/pokemon.js
+URL: https://github.com/MattyLowe/com682/blob/be971f52a461f26a76181d2c6954a57d8a174825/JS/pokemon.js
+Token: sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=XS6BZcoJmeo6xpfELmB_s9r9o5iYR_ddmVWoLruZZu8";
+Discovered: 2025-01-18T14:14:53.507526
+--------------------------------------------------
+Finding #215
+Repository: MattyLowe/com682
+File: JS/pokemon.js
+URL: https://github.com/MattyLowe/com682/blob/be971f52a461f26a76181d2c6954a57d8a174825/JS/pokemon.js
+Token: sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=LrNtcUEBKlnk5IFbB2fjh_DDOonTq5J35Fd48M_h8U0";
+Discovered: 2025-01-18T14:14:53.508071
+--------------------------------------------------
+Finding #216
+Repository: MattyLowe/com682
+File: JS/pokemon.js
+URL: https://github.com/MattyLowe/com682/blob/be971f52a461f26a76181d2c6954a57d8a174825/JS/pokemon.js
+Token: sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=4yYr3XYfddMc7KKT8zCpwdqXiX30uS5EnjyEg_yEFkI";
+Discovered: 2025-01-18T14:14:53.508294
+--------------------------------------------------
+Finding #217
+Repository: MattyLowe/com682
+File: JS/pokemon.js
+URL: https://github.com/MattyLowe/com682/blob/be971f52a461f26a76181d2c6954a57d8a174825/JS/pokemon.js
+Token: sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=rmgPfMO4ou9-gjA4xV8gqx2olsMrwU7-4mJAmYmrYDY";
+Discovered: 2025-01-18T14:14:53.508483
+--------------------------------------------------
+Finding #218
+Repository: MattyLowe/com682
+File: JS/pokemon.js
+URL: https://github.com/MattyLowe/com682/blob/be971f52a461f26a76181d2c6954a57d8a174825/JS/pokemon.js
+Token: sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=Z4jUroJ9_8l7XAvjOa_ZdXmSqrNNV5IzY-u-vOKN_6M",
+Discovered: 2025-01-18T14:14:53.508664
+--------------------------------------------------
+Finding #219
+Repository: MattyLowe/com682
+File: JS/pokemon.js
+URL: https://github.com/MattyLowe/com682/blob/be971f52a461f26a76181d2c6954a57d8a174825/JS/pokemon.js
+Token: sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=N6jKWai_7ueKZybKqWpc3nEa8bi4PP7bmj8eGZILH1I"
+Discovered: 2025-01-18T14:14:53.508831
+--------------------------------------------------
+Finding #220
+Repository: Explico-Engineering/explico-engineering.github.io
+File: src/js/main.js
+URL: https://github.com/Explico-Engineering/explico-engineering.github.io/blob/7575d8b8b722390354aca03f14b90ed1161fecfc/src/js/main.js
+Token: sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=LmVxu1W0gmaqsx7nctq1h8qLmgRXZZNhYTnxkclIkSM',
+Discovered: 2025-01-18T14:14:54.048816
+--------------------------------------------------
+Finding #221
+Repository: Explico-Engineering/explico-engineering.github.io
+File: src/js/main.js
+URL: https://github.com/Explico-Engineering/explico-engineering.github.io/blob/7575d8b8b722390354aca03f14b90ed1161fecfc/src/js/main.js
+Token: sv=2021-06-08&sr=b&sig=ooJASRLO5dgvDKYN9%2FmTUKTRevTCqjidXqIazuWu5D8%3D"></a></body>'
+Discovered: 2025-01-18T14:14:54.049369
+--------------------------------------------------
+Finding #222
+Repository: evcu/cv2016
+File: hw3/getData.sh
+URL: https://github.com/evcu/cv2016/blob/f28a88e23f4781f79358f4b2ba9682a8c24dd690/hw3/getData.sh
+Token: sv=2015-12-11&sr=b&sig=VdoUFRx4BfcN%2FgHQP3tR98atjT9cYCuys%2Fq%2FP7xCxLs%3D&se=2016-12-05T03%3A42%3A39Z&sp=r'
+Discovered: 2025-01-18T14:14:54.601616
+--------------------------------------------------
+Finding #223
+Repository: evcu/cv2016
+File: hw3/getData.sh
+URL: https://github.com/evcu/cv2016/blob/f28a88e23f4781f79358f4b2ba9682a8c24dd690/hw3/getData.sh
+Token: sv=2015-12-11&sr=b&sig=Sy%2FYzgPplsALRPUxjnb6buRVrQvK%2FTmq66g9reNRAF0%3D&se=2016-12-05T03%3A42%3A33Z&sp=r'
+Discovered: 2025-01-18T14:14:54.602197
+--------------------------------------------------
+Finding #224
+Repository: dmca-services/widget
+File: widget.js
+URL: https://github.com/dmca-services/widget/blob/0286368669ba2e5bcb739125623cbcc91ecde18e/widget.js
+Token: st=2019-03-02T00%3A22%3A29Z&se=2028-03-03T00%3A22%3A00Z&sp=rw&sv=2018-03-28&sr=c&sig=5uj40e0WkJN4jO9efLP3CKvstLnc2LG%2BqWfMC6U4Ou0%3D';
+Discovered: 2025-01-18T14:14:55.917236
+--------------------------------------------------
+Finding #225
+Repository: dmca-services/widget
+File: widget.js
+URL: https://github.com/dmca-services/widget/blob/0286368669ba2e5bcb739125623cbcc91ecde18e/widget.js
+Token: st=2019-03-02T00%3A22%3A29Z&se=2028-03-03T00%3A22%3A00Z&sp=rw&sv=2018-03-28&sr=c&sig=5uj40e0WkJN4jO9efLP3CKvstLnc2LG%2BqWfMC6U4Ou0%3D"
+Discovered: 2025-01-18T14:14:55.917779
+--------------------------------------------------
+Finding #226
+Repository: ANFTechTeam/anf-sql-snapshot-scheduler
+File: NetAppSQL/run.ps1
+URL: https://github.com/ANFTechTeam/anf-sql-snapshot-scheduler/blob/35ddc7dd78f02f4285b1c751a6a9938823f40b06/NetAppSQL/run.ps1
+Token: sv=2019-10-10&sr=b&sig=cSOs9p%2FlUIkT4Um18HVchSS3su1eBFFjtYkdGqrAE%2Fc%3D
+Discovered: 2025-01-18T14:14:56.412963
+--------------------------------------------------
+Finding #227
+Repository: robotastic/radiostar
+File: blobrx_nogui.py
+URL: https://github.com/robotastic/radiostar/blob/3dca7ae33fdb607e4edfccec9ce9d51e519ecab8/blobrx_nogui.py
+Token: sp=racwdli&st=2021-10-26T14:19:37Z&se=2021-11-05T22:19:37Z&sv=2020-08-04&sr=c&sig=toQkprhEGKQY09TQVPVMZeRD4CYL13Nc8gmZgUKXUBc%3D",
+Discovered: 2025-01-18T14:14:57.804389
+--------------------------------------------------
+Finding #228
+Repository: DXFrance/BlueFrogHackfest
+File: BlobStorage/ProvideSAS.md
+URL: https://github.com/DXFrance/BlueFrogHackfest/blob/1cb8663d24a14159e2622b752d24e7638417e468/BlobStorage/ProvideSAS.md
+Token: sv=2015-12-11&sr=b&sig=DPdpnQs3BX5OKU7kZiHy76p1UQuQjq4NCRiiMrrXIqk%3D&st=2016-11-16T15%3A20%3A43Z&se=2016-11-16T16%3A25%3A43Z&sp=w'
+Discovered: 2025-01-18T14:14:59.001833
+--------------------------------------------------
+Finding #229
+Repository: DXFrance/BlueFrogHackfest
+File: BlobStorage/ProvideSAS.md
+URL: https://github.com/DXFrance/BlueFrogHackfest/blob/1cb8663d24a14159e2622b752d24e7638417e468/BlobStorage/ProvideSAS.md
+Token: sv=2015-12-11&sr=b&sig=HbbswWVl5o3mkNcuYg3cUIjYecmHOJ%2BFtQ5ptXER7ic%3D&st=2016-11-16T15%3A24%3A58Z&se=2016-11-16T16%3A29%3A58Z&sp=r'
+Discovered: 2025-01-18T14:14:59.002366
+--------------------------------------------------
+Finding #230
+Repository: DXFrance/BlueFrogHackfest
+File: BlobStorage/ProvideSAS.md
+URL: https://github.com/DXFrance/BlueFrogHackfest/blob/1cb8663d24a14159e2622b752d24e7638417e468/BlobStorage/ProvideSAS.md
+Token: sv=2015-12-11&sr=b&sig=HbbswWVl5o3mkNcuYg3cUIjYecmHOJ%2BFtQ5ptXER7ic%3D&st=2016-11-16T15%3A24%3A58Z&se=2016-11-16T16%3A29%3A58Z&sp=r","uri":"https://tbrdatacollection.blob.core.windows.net/configcontainer?sv=2015-12-11&sr=b&sig=HbbswWVl5o3mkNcuYg3cUIjYecmHOJ%2BFtQ5ptXER7ic%3D&st=2016-11-16T15%3A24%3A58Z&se=2016-11-16T16%3A29%3A58Z&sp=r"}
+Discovered: 2025-01-18T14:14:59.002564
+--------------------------------------------------
+Finding #231
+Repository: DXFrance/BlueFrogHackfest
+File: BlobStorage/ProvideSAS.md
+URL: https://github.com/DXFrance/BlueFrogHackfest/blob/1cb8663d24a14159e2622b752d24e7638417e468/BlobStorage/ProvideSAS.md
+Token: sv=2015-12-11&sr=b&sig=DPdpnQs3BX5OKU7kZiHy76p1UQuQjq4NCRiiMrrXIqk%3D&st=2016-11-16T15%3A20%3A43Z&se=2016-11-16T16%3A25%3A43Z&sp=w","uri":"https://tbrdatacollection.blob.core.windows.net/configcontainer?sv=2015-12-11&sr=b&sig=DPdpnQs3BX5OKU7kZiHy76p1UQuQjq4NCRiiMrrXIqk%3D&st=2016-11-16T15%3A20%3A43Z&se=2016-11-16T16%3A25%3A43Z&sp=w"}
+Discovered: 2025-01-18T14:14:59.002716
+--------------------------------------------------
+Finding #232
+Repository: DXFrance/BlueFrogHackfest
+File: BlobStorage/ProvideSAS.md
+URL: https://github.com/DXFrance/BlueFrogHackfest/blob/1cb8663d24a14159e2622b752d24e7638417e468/BlobStorage/ProvideSAS.md
+Token: sv=2015-12-11&sr=b&sig=cEx%2F8l9NQgoGgnz4xaCfyblh3Wa3I7Ju8TM9uyqGpFE%3D&st=2016-11-16T13%3A48%3A58Z&se=2016-11-16T14%3A53%3A58Z&sp=rl","uri":"https://tbrdatacollection.blob.core.windows.net/configcontainer?sv=2015-12-11&sr=b&sig=cEx%2F8l9NQgoGgnz4xaCfyblh3Wa3I7Ju8TM9uyqGpFE%3D&st=2016-11-16T13%3A48%3A58Z&se=2016-11-16T14%3A53%3A58Z&sp=rl"}
+Discovered: 2025-01-18T14:14:59.002941
+--------------------------------------------------
+Finding #233
+Repository: Sainathplv/UTA-WEBSITE
+File: src/exams.js
+URL: https://github.com/Sainathplv/UTA-WEBSITE/blob/840cb3f0870d6f6568820d7ba36f964431b74e76/src/exams.js
+Token: sp=racwdli&st=2023-10-28T20:29:00Z&se=2024-01-02T05:29:00Z&sv=2022-11-02&sr=c&sig=q3ALaFM3qzmcC%2BtiMCGtz0bxSz5WVynN1x9NBAFxsw4%3D";
+Discovered: 2025-01-18T14:14:59.646013
+--------------------------------------------------
+Finding #234
+Repository: jfraj/kaggle_titanic
+File: myfirstforest.py
+URL: https://github.com/jfraj/kaggle_titanic/blob/6c8126d91b75022202dc3c9191b379bbdc6c8303/myfirstforest.py
+Token: sv=2012-02-12&se=2014-11-25T16%3A49%3A30Z&sr=b&sp=r&sig=Yhk7wx8QpG%2FeX9ivMcCKLDrR2sHqIxkhodak2uifteE%3D
+Discovered: 2025-01-18T14:15:00.146285
+--------------------------------------------------
+Finding #235
+Repository: webmaxru/dnv-hackathon
+File: index.js
+URL: https://github.com/webmaxru/dnv-hackathon/blob/1ce458cad5819992dc42f3b8c99911bdf5c361b2/index.js
+Token: sv=2021-06-08&sr=b&sig=%2Bf2Q7vVHDtIhDbZbhDP9NQDG4ThOtOW8NL0rpDGZIwg%3D";
+Discovered: 2025-01-18T14:15:00.617426
+--------------------------------------------------
+Finding #236
+Repository: qi-feng/ClassificationUsingScikitLearn
+File: rf_module.py
+URL: https://github.com/qi-feng/ClassificationUsingScikitLearn/blob/5f8edc9c108e3752861fe712f75d2c75160081df/rf_module.py
+Token: sv=2012-02-12&se=2015-05-03T21%3A22%3A17Z&sr=b&sp=r&sig=rkeA7EJC%2BiQ%2FJ%2BcMpcA4lYQLFh6ubNqs2XAkGtFsAv0%3D
+Discovered: 2025-01-18T14:15:01.253071
+--------------------------------------------------
+Finding #237
+Repository: AryaGhodsi/TestRepo
+File: helloworld.py
+URL: https://github.com/AryaGhodsi/TestRepo/blob/ee618b125512c83ebe21ee4650289830cf163ced/helloworld.py
+Token: sv=2022-11-02&sr=c&sig=Q4UrntDEr2WPPKhb6puBLBv4e0jvWTx62hnxuk7UDJM%3D"
+Discovered: 2025-01-18T14:15:02.988860
+--------------------------------------------------
+Finding #238
+Repository: AryaGhodsi/TestRepo
+File: helloworld.py
+URL: https://github.com/AryaGhodsi/TestRepo/blob/ee618b125512c83ebe21ee4650289830cf163ced/helloworld.py
+Token: sv=2022-11-02&sr=c&sig=Q4UrntDEr2WPPKhb6puBLBv4e0jvWTx62hnxuk7UDJM%3D
+Discovered: 2025-01-18T14:15:02.989609
+--------------------------------------------------
+Finding #239
+Repository: valeria-a/morning-ninjas
+File: lesson37/scrap.py
+URL: https://github.com/valeria-a/morning-ninjas/blob/0d7d7eabe4f94a4b7b27dffd45c49654212d5451/lesson37/scrap.py
+Token: sv=2014-02-14&sr=b&sig=jH0VUIbeRTGSaQqA9ing6XPE7ioanj946LBxsBJTOno%3D&se=2023-03-29T11%3A40%3A48Z&sp=r')
+Discovered: 2025-01-18T14:15:03.496741
+--------------------------------------------------
+Finding #240
+Repository: mitchpaulus/dotfiles
+File: notes/azure.md
+URL: https://github.com/mitchpaulus/dotfiles/blob/cb45a5ab03778d7ce051adc856639c367d40d1f3/notes/azure.md
+Token: sv=2021-10-04&se=2023-08-10T19%3A11%3A02Z&sr=c&sp=rwl&sig=w36Uea6FFoXlFoo9DLuogOWclRE%2BD5HIdGjD7FooeXU%3D"
+Discovered: 2025-01-18T14:15:05.167171
+--------------------------------------------------
+Finding #241
+Repository: chmitch/AIAdjacent
+File: Student/01-Setup.md
+URL: https://github.com/chmitch/AIAdjacent/blob/28e7db7b014aecd244873e00f262621e344533a2/Student/01-Setup.md
+Token: st=2020-02-20T17%3A37%3A51Z&se=2021-02-21T17%3A37%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=FPqvfQMJdy5pjB6tWSs9Iw2UmtTeWLDzH1ESO3Rhc4c%3D"
+Discovered: 2025-01-18T14:15:05.778074
+--------------------------------------------------
+Finding #242
+Repository: davew-msft/synapse
+File: fb-labs/Lab01.md
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/fb-labs/Lab01.md
+Token: sv=2021-10-04&st=2022-04-20T10%3A18%3A00Z&se=2024-04-21T10%3A18%3A00Z&sr=c&sp=rl&sig=m3oxTdXSHVAEyS9JEqsQD5tnTGG8TkZcdz%2FWrGVdQ4c%3D`
+Discovered: 2025-01-18T14:15:06.391803
+--------------------------------------------------
+Finding #243
+Repository: davew-msft/synapse
+File: fb-labs/Lab01.md
+URL: https://github.com/davew-msft/synapse/blob/0050c560e8339c44fde0209e5b6e2d3e79dfe8d1/fb-labs/Lab01.md
+Token: sv=2020-02-10&st=2022-04-20T11%3A30%3A00Z&se=2024-04-21T11%3A30%3A00Z&sr=c&sp=racwdlmeop&sig=yL%2B4daf2IjB2%2B2hRzjNIJTYWA8zzWNR4qRf9dh831hU%3D`
+Discovered: 2025-01-18T14:15:06.392479
+--------------------------------------------------
+Finding #244
+Repository: jxxcarlson/exo-nn
+File: volve.txt
+URL: https://github.com/jxxcarlson/exo-nn/blob/3d1e13f3f21ff036ee7f9fe33610f6ad763c5cd8/volve.txt
+Token: sv=2021-08-06&se=2023-05-12T20%3A04%3A18Z&sr=c&sp=rl&sig=b%2BZ3hDJd5PaWdagaxOlMYr4ykgJ0adc%2Biv27xObBHNo%3D
+Discovered: 2025-01-18T14:15:07.762441
+--------------------------------------------------
+Finding #245
+Repository: koksmat-com/koksmat
+File: cmd/ship.go
+URL: https://github.com/koksmat-com/koksmat/blob/5347d20ee370f7a4ff3190ca32d4fb4183089d35/cmd/ship.go
+Token: se=2026-09-03T14%3A30%3A13Z&sp=r&sv=2022-11-02&sr=b&sig=TbggJHwLnJw8cyz3Os4MKSnNirmJw667enYY6p5AJOI%3D"
+Discovered: 2025-01-18T14:15:08.441546
+--------------------------------------------------
+Finding #246
+Repository: Sainathplv/UTA-WEBSITE
+File: src/feedback.js
+URL: https://github.com/Sainathplv/UTA-WEBSITE/blob/840cb3f0870d6f6568820d7ba36f964431b74e76/src/feedback.js
+Token: sp=racwdli&st=2023-10-28T20:29:00Z&se=2024-01-02T05:29:00Z&sv=2022-11-02&sr=c&sig=q3ALaFM3qzmcC%2BtiMCGtz0bxSz5WVynN1x9NBAFxsw4%3D";
+Discovered: 2025-01-18T14:15:09.054548
+--------------------------------------------------
+Finding #247
+Repository: mirkosalomo/Churn_Prediction
+File: config.py
+URL: https://github.com/mirkosalomo/Churn_Prediction/blob/5e47b9571c5ca9168098b9bd0e9ab9f874e064f4/config.py
+Token: sv=2021-12-02&sr=b&sig=d%2Fn5C%2FWWksWDI%2FiiZEqwz5mOaw2jAqkW9DHUOSz6R7Q%3D"
+Discovered: 2025-01-18T14:15:09.671712
+--------------------------------------------------
+Finding #248
+Repository: mirkosalomo/Churn_Prediction
+File: config.py
+URL: https://github.com/mirkosalomo/Churn_Prediction/blob/5e47b9571c5ca9168098b9bd0e9ab9f874e064f4/config.py
+Token: sv=2021-06-08&sr=b&sig=JZE599UA3foRsJ6ZbOHW6M0nWexxLc3JCB49gJ%2B2faU%3D"
+Discovered: 2025-01-18T14:15:09.672232
+--------------------------------------------------
+Finding #249
+Repository: Balkiska/CloudComputing
+File: toknow
+URL: https://github.com/Balkiska/CloudComputing/blob/d458d16b1ab2d04ae1cf4d1abb02954f5545b24e/toknow
+Token: sp=racwli&st=2023-01-13T12:31:16Z&se=2023-01-13T20:31:16Z&sv=2021-06-08&sr=c&sig=cV1dy4qYE7NcJK%2FZEeWNGLdSbBTojGhCjz%2BmdJ%2BNttU%3D
+Discovered: 2025-01-18T14:15:10.283333
+--------------------------------------------------
