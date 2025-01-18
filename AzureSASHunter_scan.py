@@ -14,17 +14,13 @@ def main():
     # Define search queries
     queries = [
         'blob.core.windows.net sig=',
-        'sv= sp= sig= blob.core.windows.net'
+        'sv= sp= sig= blob.core.windows.net',
+        'SharedAccessSignature sr=',
+        'filename:config* blob.core.windows.net',
+        'filename:.env blob.core.windows.net',
+        'filename:settings* blob.core.windows.net'
     ]
 
-    # queries = [
-    #     'blob.core.windows.net sig=',
-    #     'sv= sp= sig= blob.core.windows.net',
-    #     'SharedAccessSignature sr=',
-    #     'filename:config* blob.core.windows.net',
-    #     'filename:.env blob.core.windows.net',
-    #     'filename:settings* blob.core.windows.net'
-    # ]
 
     # Run scan
     findings = scanner.scan_and_report(queries)
